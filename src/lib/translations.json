@@ -1,0 +1,1235 @@
+{
+  "발견": [
+    "Discover",
+    "发现"
+  ],
+  "스캔": [
+    "Scan",
+    "扫码"
+  ],
+  "내 것": [
+    "My rewards",
+    "我的奖励"
+  ],
+  "전체": [
+    "All",
+    "全部"
+  ],
+  "이 브라우저에서는 체험 상태가 저장되지 않습니다.": [
+    "This browser cannot save your demo progress.",
+    "此浏览器无法保存体验记录。"
+  ],
+  "이 브라우저는 앱 내 QR 인식을 지원하지 않아요. 아래 데모 참여를 이용해주세요.": [
+    "QR scanning is not supported here. Use the demo button below.",
+    "此浏览器不支持扫码，请使用下方体验按钮。"
+  ],
+  "카메라를 사용할 수 없어요. 아래 데모 참여를 이용해주세요.": [
+    "Camera unavailable. Use the demo button below.",
+    "无法使用相机，请使用下方体验按钮。"
+  ],
+  "QR을 인식하지 못했어요. 코드를 입력해 참여해주세요.": [
+    "Could not read the QR. Enter the code instead.",
+    "无法识别二维码，请输入参与码。"
+  ],
+  "카메라 권한을 허용하지 않았거나 사용할 수 없어요. 데모 코드로 참여할 수 있습니다.": [
+    "Camera access is unavailable or denied. You can still use the demo code.",
+    "相机不可用或权限未开启，您仍可使用体验码。"
+  ],
+  "시선 데모 참여 화면 열기": [
+    "Open the SISEON demo",
+    "打开 SISEON 体验"
+  ],
+  "시선": [
+    "시선",
+    "시선"
+  ],
+  "내 설정": [
+    "My settings",
+    "我的设置"
+  ],
+  "데모 드롭": [
+    "Demo drop",
+    "体验活动"
+  ],
+  "서울": [
+    "Seoul",
+    "首尔"
+  ],
+  "마곡 미디어파사드 참고 이미지": [
+    "Magok media facade reference image",
+    "麻谷媒体立面参考图"
+  ],
+  "마곡 드롭 상세 보기": [
+    "View Magok drop details",
+    "查看麻谷活动详情"
+  ],
+  "마곡 르웨스트": [
+    "Magok LE WEST",
+    "麻谷 LE WEST"
+  ],
+  "참여 체험": [
+    "Try it",
+    "参与体验"
+  ],
+  "오늘의 발견,": [
+    "A new discovery.",
+    "今日发现，"
+  ],
+  "당신의 리워드.": [
+    "Your next reward.",
+    "你的奖励。"
+  ],
+  "카페 쿠폰": [
+    "Café voucher",
+    "咖啡代金券"
+  ],
+  "원": [
+    " KRW",
+    " 韩元"
+  ],
+  "스캔하고 받기": [
+    "Scan & collect",
+    "扫码领取"
+  ],
+  "게스트 참여 가능 · 수령은 가입 후 · 실제 지급 없는 체험": [
+    "Join as a guest · Sign up to claim · Demo only",
+    "游客可参与 · 注册后领取 · 仅供体验"
+  ],
+  "다음 시선": [
+    "More to discover",
+    "更多发现"
+  ],
+  "시계 · Web3": [
+    "Watches · Web3",
+    "腕表 · Web3"
+  ],
+  "게스트": [
+    "Guest",
+    "游客"
+  ],
+  "시선 멤버": [
+    "SISEON member",
+    "SISEON 会员"
+  ],
+  "리워드 상태": [
+    "Reward status",
+    "奖励状态"
+  ],
+  "받을 수 있음": [
+    "Ready to claim",
+    "待领取"
+  ],
+  "수령 완료": [
+    "Claimed",
+    "已领取"
+  ],
+  "아직, 빈 주머니.": [
+    "Room for your first reward.",
+    "等待你的第一份奖励。"
+  ],
+  "첫 번째 시선을 담아보세요.": [
+    "Make your first discovery.",
+    "开启你的第一次发现。"
+  ],
+  "스캔하기": [
+    "Start scanning",
+    "开始扫码"
+  ],
+  "마곡 나이트 드롭": [
+    "Magok Night Drop",
+    "麻谷夜间活动"
+  ],
+  "수령 내역 보기": [
+    "View claim details",
+    "查看领取记录"
+  ],
+  "리워드 자세히 보기": [
+    "View reward",
+    "查看奖励"
+  ],
+  "데모 리워드 · 실제 사용 불가": [
+    "Demo reward · Not redeemable",
+    "体验奖励 · 不可实际使用"
+  ],
+  "아직 수령한 리워드가 없어요.": [
+    "No claimed rewards yet.",
+    "暂无已领取的奖励。"
+  ],
+  "받기 전인 리워드가 없어요.": [
+    "No rewards waiting to be claimed.",
+    "暂无待领取的奖励。"
+  ],
+  "조금 더 좋은 일상.": [
+    "A little more, every day.",
+    "让日常更美好。"
+  ],
+  "Premium으로 5,000원 리워드": [
+    "5,000 KRW rewards with Premium",
+    "Premium 享 5,000 韩元奖励"
+  ],
+  "참여 시점의 등급 적용 · 이 기기에만 보관": [
+    "Tier at entry applies · Saved on this device only",
+    "以参与时等级为准 · 仅保存在此设备"
+  ],
+  "수령 완료 · 데모": [
+    "Claimed · Demo",
+    "已领取 · 体验"
+  ],
+  "확정 리워드 · 데모": [
+    "Guaranteed reward · Demo",
+    "确定奖励 · 体验"
+  ],
+  "수령 조건": [
+    "Eligibility",
+    "领取条件"
+  ],
+  "무료 회원 이상": [
+    "Free membership or above",
+    "免费会员及以上"
+  ],
+  "수령 기한": [
+    "Claim deadline",
+    "领取期限"
+  ],
+  "데모 기한 없음": [
+    "No deadline in this demo",
+    "体验无期限"
+  ],
+  "사용처": [
+    "Where to use",
+    "使用范围"
+  ],
+  "실제 사용 불가": [
+    "Not redeemable",
+    "不可实际使用"
+  ],
+  "데모에서는 실제 쿠폰이 발급되지 않습니다. 정식 캠페인의 사용처와 유효기간은 상품 확정 후 안내합니다.": [
+    "No real voucher is issued in this demo. Redemption locations and expiry will be announced for confirmed campaigns.",
+    "本体验不发放真实代金券。正式活动的使用范围及有效期将在商品确定后公布。"
+  ],
+  "무료 회원 · 3,000원": [
+    "Free · 3,000 KRW",
+    "免费会员 · 3,000 韩元"
+  ],
+  "Premium · 5,000원": [
+    "Premium · 5,000 KRW",
+    "Premium · 5,000 韩元"
+  ],
+  "이 상품은 참여 시점의 혜택으로 고정됩니다. Premium은 다음 참여부터 적용됩니다.": [
+    "This reward keeps your tier at entry. Premium applies to your next entry.",
+    "此奖励以参与时的等级为准。Premium 权益从下一次参与起生效。"
+  ],
+  "수령 확인서 보기": [
+    "View receipt",
+    "查看领取凭证"
+  ],
+  "가입하고 이 리워드 받기": [
+    "Sign up to claim this reward",
+    "注册并领取此奖励"
+  ],
+  "이 리워드 받기": [
+    "Claim this reward",
+    "领取此奖励"
+  ],
+  "참여 내역이 없습니다.": [
+    "No entry found.",
+    "暂无参与记录。"
+  ],
+  "잘 받았어요.": [
+    "All yours.",
+    "已成功领取。"
+  ],
+  "리워드 수령 체험이 완료됐습니다.": [
+    "Your demo claim is complete.",
+    "奖励领取体验已完成。"
+  ],
+  "실제 결제나 쿠폰 지급은 발생하지 않았습니다.": [
+    "No payment was made and no real voucher was issued.",
+    "未产生实际付款，也未发放真实代金券。"
+  ],
+  "내 보관함으로": [
+    "Back to my rewards",
+    "返回我的奖励"
+  ],
+  "확정 혜택을 더 크게.": [
+    "More guaranteed benefits.",
+    "更多确定权益。"
+  ],
+  "같은 시선.": [
+    "Same discovery.",
+    "同样的发现。"
+  ],
+  "더 좋은 일상.": [
+    "More to enjoy.",
+    "更多美好。"
+  ],
+  "스캔 한 번의 즐거움에,": [
+    "Make every scan",
+    "让每一次扫码，"
+  ],
+  "확실한 혜택을 더하세요.": [
+    "go a little further.",
+    "带来更多权益。"
+  ],
+  "월 9,900원": [
+    "9,900 KRW / month",
+    "每月 9,900 韩元"
+  ],
+  "가격 제안 · 결제 없음": [
+    "Proposed price · No payment",
+    "价格提案 · 无需付款"
+  ],
+  "무료 회원으로 전환했어요.": [
+    "Switched to free membership.",
+    "已切换为免费会员。"
+  ],
+  "Premium 체험을 시작했어요. 다음 참여부터 상향 혜택이 적용됩니다.": [
+    "Premium demo enabled. Enhanced benefits apply to your next entry.",
+    "已开启 Premium 体验，升级权益从下一次参与起生效。"
+  ],
+  "무료 회원으로 체험하기": [
+    "Try free membership",
+    "体验免费会员"
+  ],
+  "가입하고 Premium 둘러보기": [
+    "Sign up to explore Premium",
+    "注册并了解 Premium"
+  ],
+  "결제 없이 Premium 체험": [
+    "Try Premium, no payment",
+    "免费体验 Premium"
+  ],
+  "좋아지는 건, 확실한 혜택.": [
+    "Better benefits. Clearly defined.",
+    "更好权益，清晰明了。"
+  ],
+  "멤버십 설계 제안": [
+    "Membership concept",
+    "会员方案提案"
+  ],
+  "더 좋은 확정 리워드": [
+    "Upgraded guaranteed rewards",
+    "升级确定奖励"
+  ],
+  "카페 쿠폰 3,000원에서 5,000원으로. 같은 드롭에서 누리는 더 큰 혜택.": [
+    "A 5,000 KRW café voucher instead of 3,000 KRW. More from the same drop.",
+    "咖啡代金券从 3,000 韩元升级至 5,000 韩元，同一活动享更多权益。"
+  ],
+  "일정 확인은 더 편하게": [
+    "Keep up with your drops",
+    "轻松掌握活动日程"
+  ],
+  "관심 드롭과 송출 변경 알림을 한곳에. 알림 연동은 정식 서비스에서 제공할 예정입니다.": [
+    "Follow drops and schedule changes in one place. Notifications are planned for the live service.",
+    "集中查看关注的活动与播放变更。通知功能计划在正式服务中提供。"
+  ],
+  "조건은 처음부터 명확하게": [
+    "Clear terms from the start",
+    "条件提前说明"
+  ],
+  "고가 경품 추첨은 무료 회원과 같은 조건. 멤버십은 확정 혜택에 집중합니다.": [
+    "Prize draws have the same terms as free membership. Premium focuses on guaranteed benefits.",
+    "高价值奖品抽奖与免费会员条件相同，Premium 专注于确定权益。"
+  ],
+  "마곡 데모 드롭": [
+    "Magok demo drop",
+    "麻谷体验活动"
+  ],
+  "무료 회원": [
+    "Free member",
+    "免费会员"
+  ],
+  "QR 참여 후": [
+    "After scanning",
+    "扫码参与后"
+  ],
+  "3,000원 쿠폰": [
+    "3,000 KRW voucher",
+    "3,000 韩元代金券"
+  ],
+  "5,000원 쿠폰": [
+    "5,000 KRW voucher",
+    "5,000 韩元代金券"
+  ],
+  "무료 추첨": [
+    "Free prize draw",
+    "免费抽奖"
+  ],
+  "동일 조건": [
+    "Same terms",
+    "相同条件"
+  ],
+  "실제 결제": [
+    "Real payment",
+    "实际付款"
+  ],
+  "없음": [
+    "None",
+    "无"
+  ],
+  "없음 · 체험용": [
+    "None · Demo only",
+    "无 · 仅供体验"
+  ],
+  "혜택은 참여 시점의 등급으로 정해집니다. 이미 참여한 드롭에는 소급 적용되지 않아요. 월 혜택 한도·갱신·해지·환불 조건은 정식 출시 전에 확정합니다.": [
+    "Benefits are fixed at entry and do not change retroactively. Monthly limits, renewal, cancellation and refund terms will be finalized before launch.",
+    "权益以参与时等级为准，不追溯适用于已参与活动。每月上限、续费、取消及退款条件将在正式上线前确定。"
+  ],
+  "나의 시선": [
+    "My SISEON",
+    "我的 SISEON"
+  ],
+  "계정과 체험 설정": [
+    "Account & demo settings",
+    "账户与体验设置"
+  ],
+  "나의 시선.": [
+    "My SISEON.",
+    "我的 SISEON。"
+  ],
+  "반가워요, 게스트님.": [
+    "Welcome, guest.",
+    "欢迎，游客。"
+  ],
+  "반가워요, 시선 멤버님.": [
+    "Welcome, SISEON member.",
+    "欢迎，SISEON 会员。"
+  ],
+  "참여는 가볍게, 보관은 안전하게.": [
+    "Discover freely. Keep your rewards.",
+    "轻松参与，保存奖励。"
+  ],
+  "Premium 체험 중 · 실제 구독 없음": [
+    "Premium demo · No subscription",
+    "Premium 体验中 · 无实际订阅"
+  ],
+  "무료 회원 체험 중 · 실제 계정 없음": [
+    "Free member demo · No real account",
+    "免费会员体验中 · 无真实账户"
+  ],
+  "가입 체험": [
+    "Try sign-up",
+    "体验注册"
+  ],
+  "언어": [
+    "Language",
+    "语言"
+  ],
+  "한국어": [
+    "한국어",
+    "한국어"
+  ],
+  "내 리워드": [
+    "My rewards",
+    "我的奖励"
+  ],
+  "개": [
+    " items",
+    " 个"
+  ],
+  "혜택 보기": [
+    "View benefits",
+    "查看权益"
+  ],
+  "마케팅 수신 동의 체험": [
+    "Demo marketing opt-in",
+    "体验营销消息同意"
+  ],
+  "선택": [
+    "Optional",
+    "可选"
+  ],
+  "설정은 이 기기에만 저장되며 실제 메시지는 발송되지 않아요. 선택 동의 없이도 참여할 수 있습니다. 파트너에게 개인정보를 제공하지 않습니다.": [
+    "Settings stay on this device. No messages are sent. Marketing consent is optional and no personal data is shared with partners.",
+    "设置仅保存在此设备，不会发送真实消息。营销同意为可选项，不会向合作方提供个人信息。"
+  ],
+  "서비스 기획서 (한국어)": [
+    "Service plan (Korean)",
+    "服务策划书（韩文）"
+  ],
+  "초안 읽기": [
+    "Read draft",
+    "阅读初稿"
+  ],
+  "체험 처음부터 다시 하기": [
+    "Restart demo",
+    "重新体验"
+  ],
+  "장소와 드롭을 살펴보세요.": [
+    "Explore locations and drops.",
+    "探索地点与活动。"
+  ],
+  "도시 곳곳, 새로운 발견.": [
+    "New discoveries around the city.",
+    "发现城市中的精彩。"
+  ],
+  "마곡만 데모 참여가 가능합니다. 강남·강북은 제휴 및 장소 미확정 예시입니다.": [
+    "Only Magok is playable in this demo. Gangnam and Gangbuk are unconfirmed concepts.",
+    "仅麻谷活动可体验。江南及江北为尚未确定合作与地点的示例。"
+  ],
+  "지역 필터": [
+    "Filter by area",
+    "按地区筛选"
+  ],
+  "마곡": [
+    "Magok",
+    "麻谷"
+  ],
+  "강남": [
+    "Gangnam",
+    "江南"
+  ],
+  "강북": [
+    "Gangbuk",
+    "江北"
+  ],
+  "마곡 르웨스트 미디어파사드 참고 이미지": [
+    "Magok LE WEST media facade reference image",
+    "麻谷 LE WEST 媒体立面参考图"
+  ],
+  "도시가 캔버스가 되는 밤.": [
+    "When the city becomes a canvas.",
+    "城市成为画布的夜晚。"
+  ],
+  "미디어아트와 리워드가 만나는 장소": [
+    "Where media art meets rewards",
+    "媒体艺术与奖励相遇之处"
+  ],
+  "방문 전 송출 공지를 확인하세요. 기상·현장 상황에 따라 일정이 변경될 수 있습니다.": [
+    "Check the schedule before visiting. Weather and on-site conditions may cause changes.",
+    "到访前请查看播放公告。日程可能因天气及现场情况而调整。"
+  ],
+  "QR 참여 체험": [
+    "Try QR entry",
+    "体验扫码参与"
+  ],
+  "지금은 마곡 드롭으로 체험하기": [
+    "Try the Magok drop instead",
+    "先体验麻谷活动"
+  ],
+  "스크린을 담아주세요.": [
+    "Find the QR on screen.",
+    "扫描屏幕上的二维码。"
+  ],
+  "마곡 · 게스트 참여 가능": [
+    "Magok · Guests welcome",
+    "麻谷 · 游客可参与"
+  ],
+  "스크린의 QR을 담아주세요": [
+    "Place the QR inside the frame",
+    "将二维码放入框内"
+  ],
+  "프로토타입에서는 데모 코드로 참여합니다. 실제 경품 응모는 되지 않아요.": [
+    "Use the demo code in this prototype. It does not enter a real prize draw.",
+    "本原型使用体验码参与，不会报名真实抽奖。"
+  ],
+  "카메라 끄기": [
+    "Turn camera off",
+    "关闭相机"
+  ],
+  "카메라로 QR 읽기": [
+    "Scan with camera",
+    "使用相机扫码"
+  ],
+  "참여 코드": [
+    "Entry code",
+    "参与码"
+  ],
+  "확인": [
+    "Confirm",
+    "确认"
+  ],
+  "데모 QR로 바로 참여": [
+    "Try a demo scan",
+    "直接体验扫码"
+  ],
+  "안전한 보행 구역에 멈춘 뒤 참여해주세요.": [
+    "Stop in a safe pedestrian area before scanning.",
+    "请在安全的步行区域停下后参与。"
+  ],
+  "다른 상황 체험": [
+    "Try other scenarios",
+    "体验其他情况"
+  ],
+  "만료된 QR": [
+    "Expired QR",
+    "已过期二维码"
+  ],
+  "잘못된 QR": [
+    "Invalid QR",
+    "无效二维码"
+  ],
+  "시선을 담는 중.": [
+    "Saving your discovery.",
+    "正在保存你的发现。"
+  ],
+  "데모 참여를 확인하고 있어요.": [
+    "Checking your demo entry.",
+    "正在确认体验参与。"
+  ],
+  "잠시 후 리워드가 나타납니다.": [
+    "Your reward will appear shortly.",
+    "奖励即将出现。"
+  ],
+  "이미 담아둔 시선이에요.": [
+    "Already in your collection.",
+    "已在你的收藏中。"
+  ],
+  "다음 QR에서 만나요.": [
+    "Catch the next QR.",
+    "下一个二维码见。"
+  ],
+  "QR을 다시 확인해주세요.": [
+    "Let's check that QR.",
+    "请重新确认二维码。"
+  ],
+  "내 리워드 보기": [
+    "View my rewards",
+    "查看我的奖励"
+  ],
+  "다시 스캔하기": [
+    "Scan again",
+    "重新扫码"
+  ],
+  "발견으로 돌아가기": [
+    "Back to Discover",
+    "返回发现"
+  ],
+  "발견이, 내 것이 되는 순간.": [
+    "A discovery to call your own.",
+    "让发现成为你的奖励。"
+  ],
+  "마곡 드롭 참여 완료": [
+    "Magok entry complete",
+    "麻谷活动参与完成"
+  ],
+  "마곡 르웨스트 · 데모 리워드": [
+    "Magok LE WEST · Demo reward",
+    "麻谷 LE WEST · 体验奖励"
+  ],
+  "가입하고 받기": [
+    "Sign up & claim",
+    "注册并领取"
+  ],
+  "내 리워드에서 받기": [
+    "Claim in My rewards",
+    "前往我的奖励领取"
+  ],
+  "지금은 보관만 할게요": [
+    "Save it for now",
+    "暂时保存"
+  ],
+  "실제 쿠폰은 발급되지 않는 체험입니다.": [
+    "Demo only. No real voucher is issued.",
+    "仅供体验，不发放真实代金券。"
+  ],
+  "이제, 당신의 것으로.": [
+    "Make it yours.",
+    "让它属于你。"
+  ],
+  "개인정보 없이 가입 흐름을 체험합니다.": [
+    "Try sign-up without personal information.",
+    "无需个人信息即可体验注册。"
+  ],
+  "참여권을 내 보관함에 연결": [
+    "Keep your entry in My rewards",
+    "将参与记录关联到我的奖励"
+  ],
+  "리워드 받기 체험": [
+    "Try claiming your reward",
+    "体验领取奖励"
+  ],
+  "Premium 혜택 비교": [
+    "Compare Premium benefits",
+    "比较 Premium 权益"
+  ],
+  "데모이며 실제 계정이 생성되지 않음을 확인했어요.": [
+    "I understand this is a demo and no real account is created.",
+    "我了解这仅为体验，不会创建真实账户。"
+  ],
+  "이름·휴대폰 번호를 입력할 필요가 없어요. 정식 서비스에서는 필수 수집·이용과 선택 마케팅 동의를 분리합니다.": [
+    "No name or phone number is needed. Required data consent and optional marketing consent will be separate in the live service.",
+    "无需输入姓名或手机号。正式服务将区分必要的数据同意与可选的营销同意。"
+  ],
+  "가입 체험 완료! 게스트 참여권이 그대로 연결됐어요.": [
+    "Sign-up demo complete. Your guest entry is still here.",
+    "注册体验完成，游客参与记录已关联。"
+  ],
+  "무료 회원으로 체험 시작": [
+    "Continue as a free member",
+    "以免费会员身份继续"
+  ],
+  "처음부터 다시 체험할까요?": [
+    "Restart the demo?",
+    "重新开始体验？"
+  ],
+  "이 브라우저의 데모 참여권과 등급 설정이 초기화됩니다. 실제 계정이나 자산은 없습니다.": [
+    "This resets demo entries and membership on this browser. No real account or assets are involved.",
+    "将重置此浏览器的体验记录与会员等级，不涉及真实账户或资产。"
+  ],
+  "체험을 초기화했어요.": [
+    "Demo reset.",
+    "体验已重置。"
+  ],
+  "데모 초기화": [
+    "Reset demo",
+    "重置体验"
+  ],
+  "이어서 체험하기": [
+    "Keep exploring",
+    "继续体验"
+  ],
+  "도시의 밤, 커피 한 잔의 여유": [
+    "A city night. A cup of coffee.",
+    "城市之夜，一杯咖啡的惬意。"
+  ],
+  "데모 상시 체험": [
+    "Demo available anytime",
+    "可随时体验"
+  ],
+  "체험 가능": [
+    "Try now",
+    "可体验"
+  ],
+  "카페 쿠폰 3,000원": [
+    "Café voucher · 3,000 KRW",
+    "咖啡代金券 · 3,000 韩元"
+  ],
+  "카페 쿠폰 5,000원": [
+    "Café voucher · 5,000 KRW",
+    "咖啡代金券 · 5,000 韩元"
+  ],
+  "확정 리워드": [
+    "Guaranteed reward",
+    "确定奖励"
+  ],
+  "라이프스타일 브랜드 제휴 제안": [
+    "Lifestyle brand partnership concept",
+    "生活方式品牌合作提案"
+  ],
+  "미디어아트가 켜지는 순간, 도시의 스크린이 새로운 만남의 장소가 됩니다. 현장 QR 참여 후 카페 쿠폰을 받아보세요.": [
+    "When media art lights up, the city screen becomes a meeting place. Scan on site to collect a café voucher.",
+    "当媒体艺术点亮，城市屏幕成为新的相遇之处。现场扫码参与，领取咖啡代金券。"
+  ],
+  "실제 지급 없는 체험 캠페인입니다. 무료 회원은 3,000원, Premium은 5,000원 쿠폰을 비교 체험합니다.": [
+    "Demo only, with no real payout. Compare a 3,000 KRW voucher for free members with 5,000 KRW for Premium.",
+    "此为无真实发放的体验活动。可比较免费会员 3,000 韩元与 Premium 5,000 韩元代金券。"
+  ],
+  "손목 위의 새로운 시선": [
+    "A new perspective on your wrist",
+    "腕间的新视角"
+  ],
+  "일상에 들어오는 특별한 오브제": [
+    "Something extraordinary, every day",
+    "融入日常的特别之物"
+  ],
+  "강남 스크린": [
+    "Gangnam screen",
+    "江南屏幕"
+  ],
+  "일정 협의 중": [
+    "Schedule to be confirmed",
+    "日程待定"
+  ],
+  "제휴 제안": [
+    "Partnership concept",
+    "合作提案"
+  ],
+  "프리미엄 시계 무료 응모권": [
+    "Free premium watch draw entry",
+    "高级腕表免费抽奖资格"
+  ],
+  "바이버 · 구구스 협업 후보 / 미확정": [
+    "VIVER · GUGUS partnership candidates / Unconfirmed",
+    "VIVER · GUGUS 合作候选 / 未确定"
+  ],
+  "프리미엄 시계를 도시의 스크린에서 만나고 무료 추첨에 참여하는 캠페인 제안입니다. 브랜드·제품·당첨 인원은 파트너 협의 후 확정합니다.": [
+    "A proposed free watch draw promoted on city screens. Brand, product and winner count are subject to partner agreement.",
+    "在城市屏幕展示高级腕表并进行免费抽奖的活动提案。品牌、产品与中奖人数待合作方协商确定。"
+  ],
+  "현재 응모할 수 없습니다. Premium도 추첨 확률과 무료 응모 조건은 같습니다. 실제 상품 및 제휴 미확정.": [
+    "Entries are not open. Premium has the same odds and free-entry terms. Products and partnerships are unconfirmed.",
+    "目前无法报名。Premium 的中奖概率及免费参与条件相同，实际商品与合作尚未确定。"
+  ],
+  "도시에서 만나는 Web3": [
+    "Discover Web3 in the city",
+    "在城市中遇见 Web3"
+  ],
+  "스크린에서 시작되는 새로운 연결": [
+    "New connections start on screen",
+    "从屏幕开始的新连接"
+  ],
+  "강북 스크린": [
+    "Gangbuk screen",
+    "江北屏幕"
+  ],
+  "스폰서 토큰 에어드랍": [
+    "Sponsor token airdrop",
+    "赞助方代币空投"
+  ],
+  "에어드랍 제안": [
+    "Airdrop concept",
+    "空投提案"
+  ],
+  "업비트 · 빗썸 · 해외 프로젝트 후원 후보 / 미확정": [
+    "Upbit · Bithumb · Global projects: sponsor candidates / Unconfirmed",
+    "Upbit · Bithumb · 海外项目：赞助候选 / 未确定"
+  ],
+  "토큰포스트와 Web3 브랜드를 연결하는 도시형 리워드 캠페인 제안입니다. 토큰 종류·수량·지급 주체·대상 조건을 확정한 뒤 참여를 엽니다.": [
+    "A city reward concept connecting TokenPost and Web3 brands. Entry opens after token type, amount, distributor and eligibility are confirmed.",
+    "连接 TokenPost 与 Web3 品牌的城市奖励活动提案。代币种类、数量、发放方及资格条件确定后开放参与。"
+  ],
+  "현재 지급·지갑 연결은 제공하지 않습니다. 상장이나 가격 상승을 보장하지 않으며 거래소와 프로젝트의 계약은 미확정입니다.": [
+    "No payouts or wallet connections are available. Listing or price increases are not guaranteed. Exchange and project agreements are unconfirmed.",
+    "目前不提供发放或钱包连接。不保证上币或价格上涨，与交易所及项目方的合同尚未确定。"
+  ],
+  "이 QR의 참여 시간이 지났어요. 새로운 QR로 다시 참여해주세요.": [
+    "This QR has expired. Scan a new QR to try again.",
+    "此二维码已过期，请扫描新的二维码参与。"
+  ],
+  "참여 코드를 확인해주세요. 데모 코드는 SEESON-MAGOK입니다.": [
+    "Check your entry code. The demo code is SEESON-MAGOK.",
+    "请确认参与码。体验码为 SEESON-MAGOK。"
+  ],
+  "이미 참여한 드롭입니다. 내 리워드에서 확인하세요.": [
+    "You already joined this drop. Find it in My rewards.",
+    "你已参与此活动，请在我的奖励中查看。"
+  ],
+  "가입 체험 후 받을 수 있어요.": [
+    "Complete the sign-up demo to claim.",
+    "完成注册体验后即可领取。"
+  ],
+  "이미 받은 리워드입니다.": [
+    "This reward has already been claimed.",
+    "此奖励已领取。"
+  ],
+  "닫기": [
+    "Close",
+    "关闭"
+  ],
+  "지도": [
+    "Map",
+    "地图"
+  ],
+  "전광판 찾아보기": [
+    "Find a screen",
+    "寻找广告屏"
+  ],
+  "강남 · 광화문": [
+    "Gangnam · Gwanghwamun",
+    "江南 · 光化门"
+  ],
+  "다음 시선은 어디에.": [
+    "Find your next spot.",
+    "寻找下一站。"
+  ],
+  "전광판을 찾고, 그곳으로.": [
+    "Find a screen. Make your way there.",
+    "找到广告屏，前往现场。"
+  ],
+  "지역 선택": [
+    "Choose an area",
+    "选择区域"
+  ],
+  "광화문": [
+    "Gwanghwamun",
+    "光化门"
+  ],
+  "전광판 선택": [
+    "Choose a screen",
+    "选择广告屏"
+  ],
+  "코엑스 케이팝스퀘어": [
+    "COEX K-Pop Square",
+    "COEX K-Pop 广场"
+  ],
+  "파르나스 미디어타워": [
+    "Parnas Media Tower",
+    "Parnas 媒体塔"
+  ],
+  "코리아나호텔 K-VISION": [
+    "Koreana Hotel K-VISION",
+    "高丽亚那酒店 K-VISION"
+  ],
+  "서울 강남구 영동대로 513": [
+    "513 Yeongdong-daero, Gangnam-gu, Seoul",
+    "首尔江南区永东大路513号"
+  ],
+  "서울 강남구 테헤란로 521": [
+    "521 Teheran-ro, Gangnam-gu, Seoul",
+    "首尔江南区德黑兰路521号"
+  ],
+  "서울 중구 세종대로 135": [
+    "135 Sejong-daero, Jung-gu, Seoul",
+    "首尔中区世宗大路135号"
+  ],
+  "코엑스 남측 외벽의 대형 커브드 전광판": [
+    "Large curved screen on the south exterior of COEX",
+    "COEX南侧外墙的大型曲面广告屏"
+  ],
+  "삼성역 인근 파르나스의 세로형 전광판": [
+    "Vertical screen at Parnas, near Samseong Station",
+    "三成站附近Parnas的竖向广告屏"
+  ],
+  "세종대로 코리아나호텔의 세로형 전광판": [
+    "Vertical screen at Koreana Hotel on Sejong-daero",
+    "世宗大路高丽亚那酒店的竖向广告屏"
+  ],
+  "삼성역 · 2호선": [
+    "Samseong Station · Line 2",
+    "三成站 · 2号线"
+  ],
+  "시청역 · 광화문역": [
+    "City Hall · Gwanghwamun stations",
+    "市厅站 · 光化门站"
+  ],
+  "매체 위치 기준": [
+    "Published screen location",
+    "媒体公开位置"
+  ],
+  "샘플 · 이벤트 미정": [
+    "Sample · No event scheduled",
+    "示例 · 活动未定"
+  ],
+  "카카오맵 길찾기": [
+    "Directions in KakaoMap",
+    "在KakaoMap中导航"
+  ],
+  "큰 지도": [
+    "Larger map",
+    "查看大地图"
+  ],
+  "매체 정보 출처": [
+    "Media source",
+    "媒体信息来源"
+  ],
+  "공개 매체 좌표입니다. QR 관람 지점은 현장 확인 전이며, 행사 일정과 리워드는 확정되지 않았어요.": [
+    "This pin uses the published media coordinates. The QR viewing point has not been checked on site. Events and rewards are not confirmed.",
+    "此标记采用媒体公开坐标。QR观看位置尚未经现场确认，活动和奖励均未确定。"
+  ],
+  "마곡 드롭 체험": [
+    "Try the Magok drop",
+    "体验麻谷活动"
+  ],
+  "참여 흐름을 먼저 경험해보세요.": [
+    "Explore how participation works.",
+    "先体验参与流程。"
+  ],
+  "지도를 불러오지 못했어요. 아래 길찾기로 위치를 확인해주세요.": [
+    "The map could not load. Use Directions below to find the location.",
+    "地图加载失败，请使用下方导航查看位置。"
+  ],
+  "코엑스 케이팝스퀘어 위치 지도": [
+    "COEX K-Pop Square location map",
+    "COEX K-Pop 广场位置地图"
+  ],
+  "파르나스 미디어타워 위치 지도": [
+    "Parnas Media Tower location map",
+    "Parnas 媒体塔位置地图"
+  ],
+  "코리아나호텔 K-VISION 위치 지도": [
+    "Koreana Hotel K-VISION location map",
+    "高丽亚那酒店 K-VISION位置地图"
+  ],
+  "다음 참여": [
+    "Next drop",
+    "下次参与"
+  ],
+  "일정 준비 중": [
+    "Schedule pending",
+    "时间待定"
+  ],
+  "리워드": [
+    "Reward",
+    "奖励"
+  ],
+  "공개 예정": [
+    "To be announced",
+    "即将公布"
+  ],
+  "위치 찾아가기": [
+    "Get directions",
+    "前往此处"
+  ],
+  "길찾기 앱 선택": [
+    "Choose a maps app",
+    "选择地图应用"
+  ],
+  "카카오맵": [
+    "KakaoMap",
+    "KakaoMap"
+  ],
+  "전광판과 관람 위치": [
+    "Screen & viewing point",
+    "广告屏与观看位置"
+  ],
+  "안전한 QR 관람 지점은 현장 확인 후 안내합니다.": [
+    "The safe QR viewing point will be shared after an on-site check.",
+    "安全的QR观看位置将在现场确认后公布。"
+  ],
+  "전광판 사진 확인": [
+    "View screen photos",
+    "查看广告屏照片"
+  ],
+  "장소 탐색 샘플 · 현재 진행 중인 이벤트가 아닙니다.": [
+    "Location preview · No event is running here.",
+    "地点预览 · 此处目前没有活动。"
+  ],
+  "도시의 다음 이야기.": [
+    "The city's next story.",
+    "城市的下一个故事。"
+  ],
+  "도시의 밤,": [
+    "City lights,",
+    "城市之夜，"
+  ],
+  "나에게 오는 선물.": [
+    "a gift for you.",
+    "属于你的礼物。"
+  ],
+  "카페 쿠폰 · 데모": [
+    "Café voucher · Demo",
+    "咖啡券 · 演示"
+  ],
+  "실제 지급 없는 체험 · 게스트 참여 가능": [
+    "Demo only · Guests welcome",
+    "仅供体验 · 游客可参与"
+  ],
+  "다음 에피소드": [
+    "Coming up",
+    "即将到来"
+  ],
+  "제휴 미확정": [
+    "Partnership pending",
+    "合作未确定"
+  ],
+  "장소 미리 보기": [
+    "Preview location",
+    "预览地点"
+  ],
+  "지난 에피소드": [
+    "Past episodes",
+    "往期活动"
+  ],
+  "종료": [
+    "Ended",
+    "已结束"
+  ],
+  "마곡의 밤을 담다.": [
+    "A night in Magok.",
+    "记录麻谷之夜。"
+  ],
+  "종료 화면 예시 · 실제 행사 이력 아님": [
+    "Archive demo · Not a past live event",
+    "结束页面示例 · 非真实活动记录"
+  ],
+  "알림함": [
+    "Notifications",
+    "通知中心"
+  ],
+  "읽지 않은 알림 있음": [
+    "Unread notifications",
+    "有未读通知"
+  ],
+  "알림": [
+    "Notifications",
+    "通知"
+  ],
+  "놓치지 않도록, 한곳에.": [
+    "Your updates, in one place.",
+    "消息汇集，不再错过。"
+  ],
+  "이벤트와 리워드 소식": [
+    "Events & rewards",
+    "活动与奖励消息"
+  ],
+  "모두 읽음": [
+    "Mark all read",
+    "全部已读"
+  ],
+  "샘플 알림": [
+    "Sample notification",
+    "示例通知"
+  ],
+  "내 체험 알림": [
+    "My demo update",
+    "我的体验通知"
+  ],
+  "읽지 않음": [
+    "Unread",
+    "未读"
+  ],
+  "다음 에피소드의 장소를 만나보세요.": [
+    "Explore the next episode's locations.",
+    "探索下一期活动地点。"
+  ],
+  "강남·광화문 전광판을 미리 둘러보세요. 실제 이벤트 일정은 미정입니다.": [
+    "Preview screens in Gangnam and Gwanghwamun. Event dates are not confirmed.",
+    "预览江南和光化门的广告屏，实际活动时间尚未确定。"
+  ],
+  "리워드 알림은 이곳에 모여요.": [
+    "Find reward updates here.",
+    "在此查看奖励通知。"
+  ],
+  "보상 확보와 수령 상태를 알림함에서 확인하는 화면 예시입니다.": [
+    "A preview of reservation and claim updates in your inbox.",
+    "这是在通知中心查看奖励预留和领取状态的示例。"
+  ],
+  "리워드 수령 체험을 완료했어요.": [
+    "Your demo claim is complete.",
+    "奖励领取体验已完成。"
+  ],
+  "확보한 리워드가 보관함에 있어요.": [
+    "Your reserved reward is in your wallet.",
+    "已预留的奖励在奖励库中。"
+  ],
+  "보관함에서 수령 내역을 확인하세요. 실제 쿠폰 지급은 없는 데모입니다.": [
+    "View your claim in your wallet. No real voucher was issued.",
+    "请在奖励库查看领取记录，此演示不发放真实优惠券。"
+  ],
+  "가입 후 수령 체험을 이어가세요. 실제 쿠폰 지급은 없는 데모입니다.": [
+    "Continue your demo claim after signing up. No real voucher is issued.",
+    "注册后继续领取体验，此演示不发放真实优惠券。"
+  ],
+  "알림 수신 설정": [
+    "Notification preferences",
+    "通知设置"
+  ],
+  "이벤트 소식": [
+    "Event news",
+    "活动消息"
+  ],
+  "선택 · 체험": [
+    "Optional · Demo",
+    "可选 · 体验"
+  ],
+  "체험": [
+    "Demo",
+    "体验"
+  ],
+  "설정은 이 기기에만 저장됩니다. 실제 푸시는 발송되지 않으며, 브라우저 알림 권한을 요청하지 않습니다.": [
+    "Preferences stay on this device. No push is sent and browser notification permission is not requested.",
+    "设置仅保存在此设备上，不发送真实推送，也不请求浏览器通知权限。"
+  ],
+  "정식 이벤트 홍보 알림은 별도 마케팅 동의와 기기 알림 허용 후 제공됩니다.": [
+    "Live promotional notifications require separate marketing consent and device permission.",
+    "正式活动推广通知需另行同意营销消息并允许设备通知。"
+  ],
+  "무료 베타 체험 · 이 기기에만 보관": [
+    "Free beta demo · Stored on this device",
+    "免费测试体验 · 仅保存在此设备"
+  ],
+  "실제 지급 없는 무료 베타 체험입니다. 가입 후 카페 쿠폰 3,000원 수령 흐름을 체험합니다.": [
+    "Free beta demo with no real payout. Sign up to try claiming a 3,000 KRW café voucher.",
+    "免费测试体验，不发放真实奖励。注册后体验领取3,000韩元咖啡券的流程。"
+  ],
+  "품절": [
+    "Sold out",
+    "已领完"
+  ],
+  "준비된 리워드가 모두 소진됐어요. 기존에 확보한 리워드는 보관함에서 확인하세요.": [
+    "All rewards have been reserved. Find your existing rewards in your wallet.",
+    "奖励已全部领完，请在奖励库查看已预留的奖励。"
+  ],
+  "이번 리워드는 모두 소진됐어요.": [
+    "This drop is sold out.",
+    "本期奖励已领完。"
+  ],
+  "지급 실패 체험": [
+    "Try a payout failure",
+    "体验发放失败"
+  ],
+  "지급을 완료하지 못했어요.": [
+    "We couldn't complete the payout.",
+    "奖励未能发放。"
+  ],
+  "지급 실패 화면 예시입니다. 확보한 리워드는 유지되며 실제 지급 요청은 발생하지 않았습니다.": [
+    "This is a payout failure preview. Your reward is kept and no real payout was requested.",
+    "这是发放失败示例。已预留奖励仍保留，未发起真实发放请求。"
+  ],
+  "다시 수령 체험": [
+    "Retry demo claim",
+    "重试领取体验"
+  ],
+  "보관함에서 이어가기": [
+    "Continue in your wallet",
+    "在奖励库继续"
+  ],
+  "추첨 캠페인": ["Draw campaigns", "抽奖活动"],
+  "응모 흐름 체험": ["Preview entry flow", "体验报名流程"],
+  "손목 위의": ["A new way to see,", "腕间之上，"],
+  "새로운 시선": ["from your wrist.", "全新的视野。"],
+  "강남 스크린 · 무료 추첨 데모": ["Gangnam screen · free draw demo", "江南屏幕 · 免费抽奖体验"],
+  "추첨 흐름 미리보기": ["Preview the draw flow", "预览抽奖流程"],
+  "실제 응모가 아닌 추첨 흐름 데모 · 상품·제휴 미확정": ["A demo of the draw flow, not a real entry · prize and partnership unconfirmed", "抽奖流程演示，非真实报名 · 奖品与合作尚未确定"],
+  "무료 응모 체험": ["Try free entry", "免费报名体验"],
+  "· 게스트 참여 가능": ["· guests can join", "· 访客可参与"],
+  "데모 QR로 바로 응모": ["Enter now with the demo QR", "立即使用体验二维码报名"],
+  "데모 QR로 바로 참여": ["Join now with the demo QR", "立即使用体验二维码参与"],
+  "응모 흐름 체험 가능": ["Entry flow demo available", "可体验报名流程"],
+  "실제 응모가 아닌 추첨 흐름 데모입니다. 상품·제휴·발표 일정은 아직 확정되지 않았습니다.": ["This is a demo of the draw flow, not a real entry. The prize, partnership, and announcement date are not yet confirmed.", "这是抽奖流程的演示，并非真实报名。奖品、合作方与公布时间均未确定。"],
+  "응모한 캠페인": ["Campaigns you entered", "已报名的活动"],
+  "데모 추첨 · 실제 응모·발표·지급 아님": ["Demo draw · not a real entry, announcement, or payout", "抽奖演示 · 非真实报名、公布或发放"],
+  "발표 대기": ["Awaiting announcement", "等待公布"],
+  "당첨": ["Won", "中奖"],
+  "미당첨": ["Not selected", "未中奖"],
+  "인증 완료": ["Verified", "验证完成"],
+  "배송 준비": ["Preparing shipment", "备货中"],
+  "배송 완료": ["Delivered", "已送达"],
+  "수령 기한 만료": ["Claim window expired", "领取期限已过"],
+  "취소됨": ["Cancelled", "已取消"],
+  "발표 확인하기": ["Check the announcement", "查看公布结果"],
+  "당첨 확인하고 진행하기": ["Confirm win and continue", "确认中奖并继续"],
+  "결과 보기": ["View result", "查看结果"],
+  "배송 정보 입력하기": ["Enter shipping details", "填写收货信息"],
+  "진행 상태 보기": ["View progress", "查看进度"],
+  "수령 내역 보기": ["View claim details", "查看领取详情"],
+  "자세히 보기": ["View details", "查看详情"],
+  "응모가 접수됐어요.": ["Your entry is in.", "已提交报名。"],
+  "· 무료 응모 완료": ["· free entry complete", "· 免费报名完成"],
+  "발표 예정": ["Announcement pending", "即将公布"],
+  "· 무료 추첨 데모": ["· free draw demo", "· 免费抽奖体验"],
+  "발표는 며칠 뒤 이 보관함에서 확인할 수 있어요. 실제 서비스에서는 응모 마감 후 서버가 추첨을 진행합니다. 이 데모는 발표 화면을 바로 미리 볼 수 있게 되어 있어요.": ["The announcement will appear here in a few days. In the real service, the draw runs on the server after entries close. This demo lets you preview the announcement screen right away.", "公布结果将在几天后显示在此处。正式服务中，抽奖会在报名截止后由服务器进行。此演示可让您立即预览公布画面。"],
+  "발표 대기 화면 보기": ["View the waiting screen", "查看等待公布画面"],
+  "실제 응모나 지급은 발생하지 않는 체험입니다.": ["This is a preview only — no real entry or payout occurs.", "仅为体验，不会产生真实报名或发放。"],
+  "발표를 기다리고 있어요.": ["Waiting for the announcement.", "正在等待公布。"],
+  "당첨을 축하드려요!": ["Congratulations, you won!", "恭喜您中奖！"],
+  "이번에는 되지 않았어요.": ["Not this time.", "这次没有中奖。"],
+  "본인 확인을 완료했어요.": ["Identity check complete.", "身份确认已完成。"],
+  "제출을 확인했어요.": ["Submission received.", "已确认提交。"],
+  "배송이 완료됐어요.": ["Delivery complete.", "配送已完成。"],
+  "지금은 진행할 수 없어요.": ["This can't continue right now.", "目前无法继续进行。"],
+  "발표는 며칠 뒤 이 보관함에서 확인할 수 있어요. 아래는 발표 화면을 미리 보는 데모 버튼입니다.": ["The announcement will appear here in a few days. The buttons below are a demo preview of that screen.", "公布结果将在几天后显示在此处。以下按钮为该画面的演示预览。"],
+  "당첨 발표 체험": ["Preview a win", "体验中奖公布"],
+  "미당첨 발표 체험": ["Preview not selected", "体验未中奖公布"],
+  "본인 확인과 배송 정보 입력이 필요해요.": ["Identity check and shipping details are required.", "需要进行身份确认并填写收货信息。"],
+  "가입하고 당첨 확인하기": ["Sign up to confirm your win", "注册并确认中奖"],
+  "이번 추첨에는 당첨되지 않았어요. 다음 캠페인에서 다시 만나요.": ["You weren't selected this time. See you in the next campaign.", "本次抽奖未能中奖，下次活动再会。"],
+  "다른 캠페인 보러가기": ["Browse other campaigns", "查看其他活动"],
+  "배송 준비 중": ["Preparing shipment", "备货中"],
+  "실제 배송 연동은 아직 없는 데모입니다.": ["This is a demo — real shipping is not yet connected.", "这是演示，尚未接入真实配送。"],
+  "배송 완료 체험": ["Preview delivery complete", "体验配送完成"],
+  "실제 배송이나 결제는 발생하지 않았습니다.": ["No real shipment or payment occurred.", "未发生真实配送或付款。"],
+  "데모 추첨 흐름 · 실제 응모·발표·지급 아님": ["Demo draw flow · not a real entry, announcement, or payout", "抽奖流程演示 · 非真实报名、公布或发放"],
+  "본인 확인": ["Identity check", "身份确认"],
+  "당첨자 확인 절차입니다 (데모)": ["Winner verification step (demo)", "中奖者确认流程（演示）"],
+  "당첨 확정": ["confirmed win", "确认中奖"],
+  "배송 정보 입력으로 진행": ["Continue to shipping details", "继续填写收货信息"],
+  "본인 확인 체험을 완료했어요 (데모)": ["I've completed the identity check demo", "已完成身份确认体验（演示）"],
+  "정식 서비스에서는 실제 본인확인 절차가 진행되며, 전원에게 금융 KYC를 요구하지 않습니다.": ["In the real service, an actual identity check is performed, and full financial KYC is not required of everyone.", "正式服务中将进行真实的身份确认程序，但不会要求所有人完成金融级KYC。"],
+  "다음: 배송 정보 입력": ["Next: shipping details", "下一步：填写收货信息"],
+  "배송 정보 입력": ["Enter shipping details", "填写收货信息"],
+  "당첨자에게만 요청하는 최소 정보입니다 (데모 · 저장되지 않음)": ["The minimum information requested only from winners (demo · not saved)", "仅向中奖者索取的最少信息（演示 · 不会被保存）"],
+  "수령인": ["Recipient", "收件人"],
+  "연락처": ["Contact number", "联系方式"],
+  "우편번호": ["Postal code", "邮政编码"],
+  "주소": ["Address", "地址"],
+  "제출하기": ["Submit", "提交"],
+  "이 데모에서는 입력한 정보가 서버로 전송되거나 저장되지 않습니다. 정식 서비스에서는 배송 목적의 최소 정보만 수집합니다.": ["In this demo, nothing you enter is sent to a server or saved. The real service collects only the minimum information needed for shipping.", "此演示中，您输入的信息不会被发送到服务器或保存。正式服务仅为配送目的收集最少的必要信息。"],
+  "응모 코드를 확인해주세요.": ["Please check your entry code.", "请确认您的报名代码。"],
+  "이미 응모한 캠페인입니다. 내 리워드에서 확인하세요.": ["You've already entered this campaign. Check My rewards.", "您已报名此活动，请在“我的奖励”中查看。"],
+  "응모 내역이 없습니다.": ["No entry found.", "没有报名记录。"],
+  "지금은 진행할 수 없는 상태예요. 보관함에서 최신 상태를 확인해주세요.": ["This can't proceed right now. Check the latest status in My rewards.", "目前无法继续，请在“我的奖励”中查看最新状态。"],
+  "가입 체험 후 당첨을 확인할 수 있어요.": ["Sign up to confirm your win.", "完成注册体验后即可确认中奖。"],
+  "수령인·연락처·우편번호·주소를 모두 입력해주세요.": ["Please fill in recipient, contact number, postal code, and address.", "请填写收件人、联系方式、邮政编码和地址。"]
+}
