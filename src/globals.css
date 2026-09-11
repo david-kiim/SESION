@@ -124,3 +124,17 @@ body{background:#080b0d;color:var(--foreground)}.app{background:var(--background
 /* Fix: iOS Safari ignores border-radius when computing box-shadow on an <svg> element (a known WebKit quirk), so the glow behind the scan icon rendered as a square there even though it looked like a circle on desktop. Move the circular shape/shadow onto the real <button> element, which every browser handles the same way. */
 .main-nav [data-slot=tabs-trigger]:nth-child(2){width:80px!important;height:80px!important;min-width:80px!important;min-height:80px!important;display:flex!important;align-items:center!important;justify-content:center!important;background-color:var(--primary)!important;border-radius:50%!important;box-shadow:0 0 0 7px var(--background),0 7px 28px #c3ff3d26!important;animation:scan-beacon-glow 2.8s ease-in-out infinite!important}
 .main-nav [data-slot=tabs-trigger]:nth-child(2)>svg{background:none!important;box-shadow:none!important;border-radius:0!important;width:38px!important;height:38px!important;padding:0!important;color:#172100!important;animation:none!important}
+
+/* 2026-09-11 design polish pass: settings/notifications/header tone-up to match the reward-card bar */
+.settings>button>svg:first-child,.settings>a>svg:first-child{width:37px;height:37px;padding:9px;box-sizing:border-box;border-radius:13px;background:#3a4a2e;color:#d2ff96;flex-shrink:0}
+.settings>button,.settings>a{transition:background-color .15s ease}
+.settings>button:hover,.settings>a:hover{background:#20282b}
+.account{position:relative;overflow:hidden}
+.account::after{content:'';position:absolute;inset:0;background:radial-gradient(120% 140% at 100% 0%,#3a4a2e55,transparent 60%);pointer-events:none}
+.avatar{position:relative;background:#3a4a2e;color:#d2ff96}
+.profile{transition:background-color .15s ease,transform .15s ease}
+.profile:hover{background:#242b2e}
+.profile:active{transform:scale(.94)}
+.logo{display:flex;align-items:baseline}
+.logo span{color:#7c8b82}
+

@@ -141,7 +141,7 @@
   ],
   "수령 내역 보기": [
     "View claim details",
-    "查看领取记录"
+    "查看领取详情"
   ],
   "리워드 자세히 보기": [
     "View reward",
@@ -540,8 +540,8 @@
     "确认"
   ],
   "데모 QR로 바로 참여": [
-    "Try a demo scan",
-    "直接体验扫码"
+    "Join now with the demo QR",
+    "立即使用体验二维码参与"
   ],
   "안전한 보행 구역에 멈춘 뒤 참여해주세요.": [
     "Stop in a safe pedestrian area before scanning.",
@@ -1155,93 +1155,496 @@
     "Continue in your wallet",
     "在奖励库继续"
   ],
-  "추첨 캠페인": ["Draw campaigns", "抽奖活动"],
-  "응모 흐름 체험": ["Preview entry flow", "体验报名流程"],
-  "손목 위의": ["A new way to see,", "腕间之上，"],
-  "새로운 시선": ["from your wrist.", "全新的视野。"],
-  "강남 스크린 · 무료 추첨 데모": ["Gangnam screen · free draw demo", "江南屏幕 · 免费抽奖体验"],
-  "추첨 흐름 미리보기": ["Preview the draw flow", "预览抽奖流程"],
-  "실제 응모가 아닌 추첨 흐름 데모 · 상품·제휴 미확정": ["A demo of the draw flow, not a real entry · prize and partnership unconfirmed", "抽奖流程演示，非真实报名 · 奖品与合作尚未确定"],
-  "무료 응모 체험": ["Try free entry", "免费报名体验"],
-  "· 게스트 참여 가능": ["· guests can join", "· 访客可参与"],
-  "데모 QR로 바로 응모": ["Enter now with the demo QR", "立即使用体验二维码报名"],
-  "데모 QR로 바로 참여": ["Join now with the demo QR", "立即使用体验二维码参与"],
-  "응모 흐름 체험 가능": ["Entry flow demo available", "可体验报名流程"],
-  "실제 응모가 아닌 추첨 흐름 데모입니다. 상품·제휴·발표 일정은 아직 확정되지 않았습니다.": ["This is a demo of the draw flow, not a real entry. The prize, partnership, and announcement date are not yet confirmed.", "这是抽奖流程的演示，并非真实报名。奖品、合作方与公布时间均未确定。"],
-  "응모한 캠페인": ["Campaigns you entered", "已报名的活动"],
-  "데모 추첨 · 실제 응모·발표·지급 아님": ["Demo draw · not a real entry, announcement, or payout", "抽奖演示 · 非真实报名、公布或发放"],
-  "발표 대기": ["Awaiting announcement", "等待公布"],
-  "당첨": ["Won", "中奖"],
-  "미당첨": ["Not selected", "未中奖"],
-  "인증 완료": ["Verified", "验证完成"],
-  "배송 준비": ["Preparing shipment", "备货中"],
-  "배송 완료": ["Delivered", "已送达"],
-  "수령 기한 만료": ["Claim window expired", "领取期限已过"],
-  "취소됨": ["Cancelled", "已取消"],
-  "발표 확인하기": ["Check the announcement", "查看公布结果"],
-  "당첨 확인하고 진행하기": ["Confirm win and continue", "确认中奖并继续"],
-  "결과 보기": ["View result", "查看结果"],
-  "배송 정보 입력하기": ["Enter shipping details", "填写收货信息"],
-  "진행 상태 보기": ["View progress", "查看进度"],
-  "수령 내역 보기": ["View claim details", "查看领取详情"],
-  "자세히 보기": ["View details", "查看详情"],
-  "응모가 접수됐어요.": ["Your entry is in.", "已提交报名。"],
-  "· 무료 응모 완료": ["· free entry complete", "· 免费报名完成"],
-  "발표 예정": ["Announcement pending", "即将公布"],
-  "· 무료 추첨 데모": ["· free draw demo", "· 免费抽奖体验"],
-  "발표는 며칠 뒤 이 보관함에서 확인할 수 있어요. 실제 서비스에서는 응모 마감 후 서버가 추첨을 진행합니다. 이 데모는 발표 화면을 바로 미리 볼 수 있게 되어 있어요.": ["The announcement will appear here in a few days. In the real service, the draw runs on the server after entries close. This demo lets you preview the announcement screen right away.", "公布结果将在几天后显示在此处。正式服务中，抽奖会在报名截止后由服务器进行。此演示可让您立即预览公布画面。"],
-  "발표 대기 화면 보기": ["View the waiting screen", "查看等待公布画面"],
-  "실제 응모나 지급은 발생하지 않는 체험입니다.": ["This is a preview only — no real entry or payout occurs.", "仅为体验，不会产生真实报名或发放。"],
-  "발표를 기다리고 있어요.": ["Waiting for the announcement.", "正在等待公布。"],
-  "당첨을 축하드려요!": ["Congratulations, you won!", "恭喜您中奖！"],
-  "이번에는 되지 않았어요.": ["Not this time.", "这次没有中奖。"],
-  "본인 확인을 완료했어요.": ["Identity check complete.", "身份确认已完成。"],
-  "제출을 확인했어요.": ["Submission received.", "已确认提交。"],
-  "배송이 완료됐어요.": ["Delivery complete.", "配送已完成。"],
-  "지금은 진행할 수 없어요.": ["This can't continue right now.", "目前无法继续进行。"],
-  "발표는 며칠 뒤 이 보관함에서 확인할 수 있어요. 아래는 발표 화면을 미리 보는 데모 버튼입니다.": ["The announcement will appear here in a few days. The buttons below are a demo preview of that screen.", "公布结果将在几天后显示在此处。以下按钮为该画面的演示预览。"],
-  "당첨 발표 체험": ["Preview a win", "体验中奖公布"],
-  "미당첨 발표 체험": ["Preview not selected", "体验未中奖公布"],
-  "본인 확인과 배송 정보 입력이 필요해요.": ["Identity check and shipping details are required.", "需要进行身份确认并填写收货信息。"],
-  "가입하고 당첨 확인하기": ["Sign up to confirm your win", "注册并确认中奖"],
-  "이번 추첨에는 당첨되지 않았어요. 다음 캠페인에서 다시 만나요.": ["You weren't selected this time. See you in the next campaign.", "本次抽奖未能中奖，下次活动再会。"],
-  "다른 캠페인 보러가기": ["Browse other campaigns", "查看其他活动"],
-  "배송 준비 중": ["Preparing shipment", "备货中"],
-  "실제 배송 연동은 아직 없는 데모입니다.": ["This is a demo — real shipping is not yet connected.", "这是演示，尚未接入真实配送。"],
-  "배송 완료 체험": ["Preview delivery complete", "体验配送完成"],
-  "실제 배송이나 결제는 발생하지 않았습니다.": ["No real shipment or payment occurred.", "未发生真实配送或付款。"],
-  "데모 추첨 흐름 · 실제 응모·발표·지급 아님": ["Demo draw flow · not a real entry, announcement, or payout", "抽奖流程演示 · 非真实报名、公布或发放"],
-  "본인 확인": ["Identity check", "身份确认"],
-  "당첨자 확인 절차입니다 (데모)": ["Winner verification step (demo)", "中奖者确认流程（演示）"],
-  "당첨 확정": ["confirmed win", "确认中奖"],
-  "배송 정보 입력으로 진행": ["Continue to shipping details", "继续填写收货信息"],
-  "본인 확인 체험을 완료했어요 (데모)": ["I've completed the identity check demo", "已完成身份确认体验（演示）"],
-  "정식 서비스에서는 실제 본인확인 절차가 진행되며, 전원에게 금융 KYC를 요구하지 않습니다.": ["In the real service, an actual identity check is performed, and full financial KYC is not required of everyone.", "正式服务中将进行真实的身份确认程序，但不会要求所有人完成金融级KYC。"],
-  "다음: 배송 정보 입력": ["Next: shipping details", "下一步：填写收货信息"],
-  "배송 정보 입력": ["Enter shipping details", "填写收货信息"],
-  "당첨자에게만 요청하는 최소 정보입니다 (데모 · 저장되지 않음)": ["The minimum information requested only from winners (demo · not saved)", "仅向中奖者索取的最少信息（演示 · 不会被保存）"],
-  "수령인": ["Recipient", "收件人"],
-  "연락처": ["Contact number", "联系方式"],
-  "우편번호": ["Postal code", "邮政编码"],
-  "주소": ["Address", "地址"],
-  "제출하기": ["Submit", "提交"],
-  "이 데모에서는 입력한 정보가 서버로 전송되거나 저장되지 않습니다. 정식 서비스에서는 배송 목적의 최소 정보만 수집합니다.": ["In this demo, nothing you enter is sent to a server or saved. The real service collects only the minimum information needed for shipping.", "此演示中，您输入的信息不会被发送到服务器或保存。正式服务仅为配送目的收集最少的必要信息。"],
-  "응모 코드를 확인해주세요.": ["Please check your entry code.", "请确认您的报名代码。"],
-  "이미 응모한 캠페인입니다. 내 리워드에서 확인하세요.": ["You've already entered this campaign. Check My rewards.", "您已报名此活动，请在“我的奖励”中查看。"],
-  "응모 내역이 없습니다.": ["No entry found.", "没有报名记录。"],
-  "지금은 진행할 수 없는 상태예요. 보관함에서 최신 상태를 확인해주세요.": ["This can't proceed right now. Check the latest status in My rewards.", "目前无法继续，请在“我的奖励”中查看最新状态。"],
-  "가입 체험 후 당첨을 확인할 수 있어요.": ["Sign up to confirm your win.", "完成注册体验后即可确认中奖。"],
-  "수령인·연락처·우편번호·주소를 모두 입력해주세요.": ["Please fill in recipient, contact number, postal code, and address.", "请填写收件人、联系方式、邮政编码和地址。"],
-  "로그인": ["Log in", "登录"],
-  "이메일 하나로 로그인해요. 계정이 없으면 자동으로 만들어드려요.": ["Log in with just your email. If you don't have an account yet, we'll create one automatically.", "只需一个邮箱即可登录。如果还没有账号，我们会自动为您创建。"],
-  "로그인하고 이 리워드 받기": ["Log in to claim this reward", "登录并领取此奖励"],
-  "로그인하고 받기": ["Log in & claim", "登录并领取"],
-  "로그인하고 당첨 확인하기": ["Log in to confirm your win", "登录并确认中奖"],
-  "당첨자 확인 절차입니다": ["Winner verification step", "中奖者确认流程"],
-  "본인 확인을 완료했어요": ["I've completed the identity check", "已完成身份确认"],
-  "당첨자에게만 요청하는 최소 정보입니다": ["The minimum information requested only from winners", "仅向中奖者索取的最少信息"],
-  "입력하신 정보는 배송 목적으로만 사용되며, 이 캠페인의 배송 처리가 끝나면 삭제를 요청할 수 있어요.": ["What you enter is used only for shipping, and you can request deletion once this campaign's shipping is complete.", "您输入的信息仅用于配送目的，此活动的配送处理完成后可申请删除。"],
-  "배송 정보가 접수됐어요. 발송이 완료되면 이 화면 상태가 자동으로 업데이트돼요.": ["Your shipping details have been received. This screen updates automatically once it ships.", "已收到您的收货信息。发货完成后此页面状态会自动更新。"],
-  "배송 상태 새로고침": ["Refresh shipping status", "刷新配送状态"],
-  "응모·추첨은 실제로 반영되며, 위 미리보기 버튼만 데모입니다.": ["Entries and the draw are real — only the preview buttons above are a demo.", "报名和抽奖均为真实数据，仅上方的预览按钮为演示。"]
+  "추첨 캠페인": [
+    "Draw campaigns",
+    "抽奖活动"
+  ],
+  "응모 흐름 체험": [
+    "Preview entry flow",
+    "体验报名流程"
+  ],
+  "손목 위의": [
+    "A new way to see,",
+    "腕间之上，"
+  ],
+  "새로운 시선": [
+    "from your wrist.",
+    "全新的视野。"
+  ],
+  "강남 스크린 · 무료 추첨 데모": [
+    "Gangnam screen · free draw demo",
+    "江南屏幕 · 免费抽奖体验"
+  ],
+  "추첨 흐름 미리보기": [
+    "Preview the draw flow",
+    "预览抽奖流程"
+  ],
+  "실제 응모가 아닌 추첨 흐름 데모 · 상품·제휴 미확정": [
+    "A demo of the draw flow, not a real entry · prize and partnership unconfirmed",
+    "抽奖流程演示，非真实报名 · 奖品与合作尚未确定"
+  ],
+  "무료 응모 체험": [
+    "Try free entry",
+    "免费报名体验"
+  ],
+  "· 게스트 참여 가능": [
+    "· guests can join",
+    "· 访客可参与"
+  ],
+  "데모 QR로 바로 응모": [
+    "Enter now with the demo QR",
+    "立即使用体验二维码报名"
+  ],
+  "응모 흐름 체험 가능": [
+    "Entry flow demo available",
+    "可体验报名流程"
+  ],
+  "실제 응모가 아닌 추첨 흐름 데모입니다. 상품·제휴·발표 일정은 아직 확정되지 않았습니다.": [
+    "This is a demo of the draw flow, not a real entry. The prize, partnership, and announcement date are not yet confirmed.",
+    "这是抽奖流程的演示，并非真实报名。奖品、合作方与公布时间均未确定。"
+  ],
+  "응모한 캠페인": [
+    "Campaigns you entered",
+    "已报名的活动"
+  ],
+  "데모 추첨 · 실제 응모·발표·지급 아님": [
+    "Demo draw · not a real entry, announcement, or payout",
+    "抽奖演示 · 非真实报名、公布或发放"
+  ],
+  "발표 대기": [
+    "Awaiting announcement",
+    "等待公布"
+  ],
+  "당첨": [
+    "Won",
+    "中奖"
+  ],
+  "미당첨": [
+    "Not selected",
+    "未中奖"
+  ],
+  "인증 완료": [
+    "Verified",
+    "验证完成"
+  ],
+  "배송 준비": [
+    "Preparing shipment",
+    "备货中"
+  ],
+  "배송 완료": [
+    "Delivered",
+    "已送达"
+  ],
+  "수령 기한 만료": [
+    "Claim window expired",
+    "领取期限已过"
+  ],
+  "취소됨": [
+    "Cancelled",
+    "已取消"
+  ],
+  "발표 확인하기": [
+    "Check the announcement",
+    "查看公布结果"
+  ],
+  "당첨 확인하고 진행하기": [
+    "Confirm win and continue",
+    "确认中奖并继续"
+  ],
+  "결과 보기": [
+    "View result",
+    "查看结果"
+  ],
+  "배송 정보 입력하기": [
+    "Enter shipping details",
+    "填写收货信息"
+  ],
+  "진행 상태 보기": [
+    "View progress",
+    "查看进度"
+  ],
+  "자세히 보기": [
+    "View details",
+    "查看详情"
+  ],
+  "응모가 접수됐어요.": [
+    "Your entry is in.",
+    "已提交报名。"
+  ],
+  "· 무료 응모 완료": [
+    "· free entry complete",
+    "· 免费报名完成"
+  ],
+  "발표 예정": [
+    "Announcement pending",
+    "即将公布"
+  ],
+  "· 무료 추첨 데모": [
+    "· free draw demo",
+    "· 免费抽奖体验"
+  ],
+  "발표는 며칠 뒤 이 보관함에서 확인할 수 있어요. 실제 서비스에서는 응모 마감 후 서버가 추첨을 진행합니다. 이 데모는 발표 화면을 바로 미리 볼 수 있게 되어 있어요.": [
+    "The announcement will appear here in a few days. In the real service, the draw runs on the server after entries close. This demo lets you preview the announcement screen right away.",
+    "公布结果将在几天后显示在此处。正式服务中，抽奖会在报名截止后由服务器进行。此演示可让您立即预览公布画面。"
+  ],
+  "발표 대기 화면 보기": [
+    "View the waiting screen",
+    "查看等待公布画面"
+  ],
+  "실제 응모나 지급은 발생하지 않는 체험입니다.": [
+    "This is a preview only — no real entry or payout occurs.",
+    "仅为体验，不会产生真实报名或发放。"
+  ],
+  "발표를 기다리고 있어요.": [
+    "Waiting for the announcement.",
+    "正在等待公布。"
+  ],
+  "당첨을 축하드려요!": [
+    "Congratulations, you won!",
+    "恭喜您中奖！"
+  ],
+  "이번에는 되지 않았어요.": [
+    "Not this time.",
+    "这次没有中奖。"
+  ],
+  "본인 확인을 완료했어요.": [
+    "Identity check complete.",
+    "身份确认已完成。"
+  ],
+  "제출을 확인했어요.": [
+    "Submission received.",
+    "已确认提交。"
+  ],
+  "배송이 완료됐어요.": [
+    "Delivery complete.",
+    "配送已完成。"
+  ],
+  "지금은 진행할 수 없어요.": [
+    "This can't continue right now.",
+    "目前无法继续进行。"
+  ],
+  "발표는 며칠 뒤 이 보관함에서 확인할 수 있어요. 아래는 발표 화면을 미리 보는 데모 버튼입니다.": [
+    "The announcement will appear here in a few days. The buttons below are a demo preview of that screen.",
+    "公布结果将在几天后显示在此处。以下按钮为该画面的演示预览。"
+  ],
+  "당첨 발표 체험": [
+    "Preview a win",
+    "体验中奖公布"
+  ],
+  "미당첨 발표 체험": [
+    "Preview not selected",
+    "体验未中奖公布"
+  ],
+  "본인 확인과 배송 정보 입력이 필요해요.": [
+    "Identity check and shipping details are required.",
+    "需要进行身份确认并填写收货信息。"
+  ],
+  "가입하고 당첨 확인하기": [
+    "Sign up to confirm your win",
+    "注册并确认中奖"
+  ],
+  "이번 추첨에는 당첨되지 않았어요. 다음 캠페인에서 다시 만나요.": [
+    "You weren't selected this time. See you in the next campaign.",
+    "本次抽奖未能中奖，下次活动再会。"
+  ],
+  "다른 캠페인 보러가기": [
+    "Browse other campaigns",
+    "查看其他活动"
+  ],
+  "배송 준비 중": [
+    "Preparing shipment",
+    "备货中"
+  ],
+  "실제 배송 연동은 아직 없는 데모입니다.": [
+    "This is a demo — real shipping is not yet connected.",
+    "这是演示，尚未接入真实配送。"
+  ],
+  "배송 완료 체험": [
+    "Preview delivery complete",
+    "体验配送完成"
+  ],
+  "실제 배송이나 결제는 발생하지 않았습니다.": [
+    "No real shipment or payment occurred.",
+    "未发生真实配送或付款。"
+  ],
+  "데모 추첨 흐름 · 실제 응모·발표·지급 아님": [
+    "Demo draw flow · not a real entry, announcement, or payout",
+    "抽奖流程演示 · 非真实报名、公布或发放"
+  ],
+  "본인 확인": [
+    "Identity check",
+    "身份确认"
+  ],
+  "당첨자 확인 절차입니다 (데모)": [
+    "Winner verification step (demo)",
+    "中奖者确认流程（演示）"
+  ],
+  "당첨 확정": [
+    "confirmed win",
+    "确认中奖"
+  ],
+  "배송 정보 입력으로 진행": [
+    "Continue to shipping details",
+    "继续填写收货信息"
+  ],
+  "본인 확인 체험을 완료했어요 (데모)": [
+    "I've completed the identity check demo",
+    "已完成身份确认体验（演示）"
+  ],
+  "정식 서비스에서는 실제 본인확인 절차가 진행되며, 전원에게 금융 KYC를 요구하지 않습니다.": [
+    "In the real service, an actual identity check is performed, and full financial KYC is not required of everyone.",
+    "正式服务中将进行真实的身份确认程序，但不会要求所有人完成金融级KYC。"
+  ],
+  "다음: 배송 정보 입력": [
+    "Next: shipping details",
+    "下一步：填写收货信息"
+  ],
+  "배송 정보 입력": [
+    "Enter shipping details",
+    "填写收货信息"
+  ],
+  "당첨자에게만 요청하는 최소 정보입니다 (데모 · 저장되지 않음)": [
+    "The minimum information requested only from winners (demo · not saved)",
+    "仅向中奖者索取的最少信息（演示 · 不会被保存）"
+  ],
+  "수령인": [
+    "Recipient",
+    "收件人"
+  ],
+  "연락처": [
+    "Contact number",
+    "联系方式"
+  ],
+  "우편번호": [
+    "Postal code",
+    "邮政编码"
+  ],
+  "주소": [
+    "Address",
+    "地址"
+  ],
+  "제출하기": [
+    "Submit",
+    "提交"
+  ],
+  "이 데모에서는 입력한 정보가 서버로 전송되거나 저장되지 않습니다. 정식 서비스에서는 배송 목적의 최소 정보만 수집합니다.": [
+    "In this demo, nothing you enter is sent to a server or saved. The real service collects only the minimum information needed for shipping.",
+    "此演示中，您输入的信息不会被发送到服务器或保存。正式服务仅为配送目的收集最少的必要信息。"
+  ],
+  "응모 코드를 확인해주세요.": [
+    "Please check your entry code.",
+    "请确认您的报名代码。"
+  ],
+  "이미 응모한 캠페인입니다. 내 리워드에서 확인하세요.": [
+    "You've already entered this campaign. Check My rewards.",
+    "您已报名此活动，请在“我的奖励”中查看。"
+  ],
+  "응모 내역이 없습니다.": [
+    "No entry found.",
+    "没有报名记录。"
+  ],
+  "지금은 진행할 수 없는 상태예요. 보관함에서 최신 상태를 확인해주세요.": [
+    "This can't proceed right now. Check the latest status in My rewards.",
+    "目前无法继续，请在“我的奖励”中查看最新状态。"
+  ],
+  "가입 체험 후 당첨을 확인할 수 있어요.": [
+    "Sign up to confirm your win.",
+    "完成注册体验后即可确认中奖。"
+  ],
+  "수령인·연락처·우편번호·주소를 모두 입력해주세요.": [
+    "Please fill in recipient, contact number, postal code, and address.",
+    "请填写收件人、联系方式、邮政编码和地址。"
+  ],
+  "로그인": [
+    "Log in",
+    "登录"
+  ],
+  "이메일 하나로 로그인해요. 계정이 없으면 자동으로 만들어드려요.": [
+    "Log in with just your email. If you don't have an account yet, we'll create one automatically.",
+    "只需一个邮箱即可登录。如果还没有账号，我们会自动为您创建。"
+  ],
+  "로그인하고 이 리워드 받기": [
+    "Log in to claim this reward",
+    "登录并领取此奖励"
+  ],
+  "로그인하고 받기": [
+    "Log in & claim",
+    "登录并领取"
+  ],
+  "로그인하고 당첨 확인하기": [
+    "Log in to confirm your win",
+    "登录并确认中奖"
+  ],
+  "당첨자 확인 절차입니다": [
+    "Winner verification step",
+    "中奖者确认流程"
+  ],
+  "본인 확인을 완료했어요": [
+    "I've completed the identity check",
+    "已完成身份确认"
+  ],
+  "당첨자에게만 요청하는 최소 정보입니다": [
+    "The minimum information requested only from winners",
+    "仅向中奖者索取的最少信息"
+  ],
+  "입력하신 정보는 배송 목적으로만 사용되며, 이 캠페인의 배송 처리가 끝나면 삭제를 요청할 수 있어요.": [
+    "What you enter is used only for shipping, and you can request deletion once this campaign's shipping is complete.",
+    "您输入的信息仅用于配送目的，此活动的配送处理完成后可申请删除。"
+  ],
+  "배송 정보가 접수됐어요. 발송이 완료되면 이 화면 상태가 자동으로 업데이트돼요.": [
+    "Your shipping details have been received. This screen updates automatically once it ships.",
+    "已收到您的收货信息。发货完成后此页面状态会自动更新。"
+  ],
+  "배송 상태 새로고침": [
+    "Refresh shipping status",
+    "刷新配送状态"
+  ],
+  "응모·추첨은 실제로 반영되며, 위 미리보기 버튼만 데모입니다.": [
+    "Entries and the draw are real — only the preview buttons above are a demo.",
+    "报名和抽奖均为真实数据，仅上方的预览按钮为演示。"
+  ],
+  "무제한 · 선착순 없음": [
+    "Unlimited · No rush",
+    "无限量 · 无需抢先"
+  ],
+  "롤렉스 즉석 드롭": [
+    "Rolex Instant Drop",
+    "劳力士即时空投"
+  ],
+  "스캔 즉시 당첨 여부를 그 자리에서 확인": [
+    "Scan and see if you won, instantly",
+    "扫码后当场立即揭晓中奖结果"
+  ],
+  "현장 스크린 (장소 협의 중)": [
+    "On-site screen (location TBD)",
+    "现场大屏（地点待定）"
+  ],
+  "롤렉스 서브마리너 즉석 당첨": [
+    "Instant win: Rolex Submariner",
+    "劳力士潜航者型即时中奖"
+  ],
+  "1개 한정 · 선착순 즉석당첨": [
+    "1 unit only · First scan wins",
+    "限量1件 · 先到先得即时中奖"
+  ],
+  "즉석 당첨": [
+    "Instant win",
+    "即时中奖"
+  ],
+  "시계 공식 판매점 · 리셀 플랫폼 협업 후보 / 미확정": [
+    "Candidate partners: authorized watch retailer, resale platform / unconfirmed",
+    "候选合作方：官方钟表经销商、转售平台／尚未确定"
+  ],
+  "한정 수량의 롤렉스 서브마리너를 걸고, 스캔 즉시 당첨 여부까지 현장에서 바로 확인하는 초고가 리워드 시나리오입니다. 준비된 수량이 소진되면 응모 자체가 종료되는 방식으로, 현장의 긴장감과 화제성을 동시에 노립니다.": [
+    "A high-value reward scenario built around a limited run of Rolex Submariners, where scanning reveals a win on the spot. Entries close the moment the stock runs out, designed to create real on-site tension and buzz.",
+    "这是一项围绕限量劳力士潜航者型打造的超高价值奖励方案，扫码即可当场知晓是否中奖。数量售罄即结束报名，旨在营造现场的紧张感和话题度。"
+  ],
+  "브랜드 협업 · 실물 재고 · 법적 검토가 끝나야 실제 QR 참여가 열리는 제안 단계입니다. 확정된 수량과 발표 방식은 아직 없습니다.": [
+    "Still a proposal stage — real QR participation opens only after brand partnership, physical stock, and legal review are finalized. Quantity and announcement method are not yet confirmed.",
+    "目前仍处于提案阶段——需完成品牌合作、实物库存与法律审核后，真正的二维码参与才会开放。具体数量和公布方式尚未确定。"
+  ],
+  "에르메스 버킨백 추첨 드롭": [
+    "Hermès Birkin Raffle Drop",
+    "爱马仕铂金包抽奖空投"
+  ],
+  "응모하고 발표를 기다리는 하이엔드 리워드": [
+    "Enter now, wait for the high-end reveal",
+    "参与报名，静候顶级大奖揭晓"
+  ],
+  "장소 협의 중": [
+    "Location TBD",
+    "地点协商中"
+  ],
+  "에르메스 버킨백 무료 응모권": [
+    "Free entry: Hermès Birkin",
+    "爱马仕铂金包免费抽奖资格"
+  ],
+  "1개 한정 · 응모 추첨": [
+    "1 unit only · Raffle entry",
+    "限量1件 · 抽奖参与"
+  ],
+  "명품 편집숍 · 리셀 플랫폼 협업 후보 / 미확정": [
+    "Candidate partners: luxury multi-brand boutique, resale platform / unconfirmed",
+    "候选合作方：精品买手店、转售平台／尚未确定"
+  ],
+  "에르메스 버킨백을 상품으로 건 추첨형 캠페인 제안입니다. 응모는 QR로 접수하고, 마감 후 운영팀이 추첨을 진행해 당첨자를 발표하는 방식입니다. 브랜드 · 수량 · 발표 일정은 파트너 협의 후 확정합니다.": [
+    "A raffle-style campaign proposal built around a Hermès Birkin. Entries are collected via QR, and after entries close, the operations team runs the draw and announces the winner. Brand, quantity, and announcement schedule will be finalized after partner discussions.",
+    "这是一项以爱马仕铂金包为奖品的抽奖活动提案。报名通过扫码接收，截止后由运营团队进行抽奖并公布中奖者。品牌、数量与公布时间将在与合作方协商后确定。"
+  ],
+  "실제 응모가 아닌 시나리오 제안입니다. 브랜드 협업 · 재고 · 발표 일정은 아직 확정되지 않았습니다.": [
+    "This is a scenario proposal, not an actual entry. Brand partnership, stock, and announcement schedule are not yet finalized.",
+    "这是场景提案，并非真实报名。品牌合作、库存与公布时间尚未确定。"
+  ],
+  "1 BTC 추첨 드롭": [
+    "1 BTC Raffle Drop",
+    "1枚BTC抽奖空投"
+  ],
+  "도시의 스크린이 거는 가장 뜨거운 응모": [
+    "The city's screens, staking their hottest entry yet",
+    "城市大屏发起的最火热的一次报名"
+  ],
+  "1 BTC 무료 응모권": [
+    "Free entry: 1 BTC",
+    "1枚BTC免费抽奖资格"
+  ],
+  "1 BTC · 응모 추첨": [
+    "1 BTC · Raffle entry",
+    "1枚BTC · 抽奖参与"
+  ],
+  "에어드랍 추첨": [
+    "Airdrop raffle",
+    "空投抽奖"
+  ],
+  "거래소 · Web3 프로젝트 후원 후보 / 미확정": [
+    "Candidate partners: exchange, Web3 project sponsorship / unconfirmed",
+    "候选合作方：交易所、Web3项目赞助／尚未确定"
+  ],
+  "1 BTC를 상품으로 건 추첨형 캠페인 제안입니다. 응모는 QR로 접수하고, 마감 후 운영팀이 추첨을 진행해 당첨자를 발표합니다. 지갑 연결이나 실제 코인 지급은 제공하지 않으며, 지급 방식은 파트너 · 거래소 협의 후 확정합니다.": [
+    "A raffle-style campaign proposal built around 1 BTC. Entries are collected via QR, and after entries close, the operations team runs the draw and announces the winner. No wallet connection or actual coin payout is provided yet; the payout method will be finalized after discussions with partners and exchanges.",
+    "这是一项以1枚BTC为奖品的抽奖活动提案。报名通过扫码接收，截止后由运营团队进行抽奖并公布中奖者。目前不提供钱包连接或实际代币发放，发放方式将在与合作方、交易所协商后确定。"
+  ],
+  "현재 지갑 연결 · 지급은 제공하지 않습니다. 상장이나 가격 상승을 보장하지 않으며 거래소 · 프로젝트와의 계약은 미확정입니다.": [
+    "Wallet connection and payout are not currently provided. No listing or price increase is guaranteed, and agreements with exchanges or projects are not yet finalized.",
+    "目前不提供钱包连接与发放服务。不保证上市或价格上涨，与交易所或项目方的协议尚未确定。"
+  ],
+  "K-pop": [
+    "K-pop",
+    "K-pop"
+  ],
+  "명품 시계": [
+    "Luxury Watches",
+    "奢侈手表"
+  ],
+  "크립토": [
+    "Crypto",
+    "加密货币"
+  ],
+  "의류": [
+    "Apparel",
+    "服饰"
+  ],
+  "카테고리 선택": [
+    "Category",
+    "选择分类"
+  ],
+  "응모 흐름 보기": [
+    "See entry flow",
+    "查看报名流程"
+  ],
+  "참여 흐름 보기": [
+    "See how to join",
+    "查看参与流程"
+  ],
+  "제안 살펴보기": [
+    "See the proposal",
+    "查看提案详情"
+  ],
+  "마곡 드롭은 실제 지급 없는 체험 · 롤렉스·버킨백·1 BTC는 브랜드·재고·법적 검토 전 제안 단계입니다": [
+    "The Magok Drop is a demo with no real payout · Rolex, Birkin, and 1 BTC are proposals pending brand, stock, and legal review",
+    "麻谷空投是无实际发放的体验 · 劳力士、铂金包、1枚BTC均处于品牌·库存·法律审核前的提案阶段"
+  ],
+  "이 조건에 맞는 다음 에피소드가 아직 없어요.": [
+    "No upcoming episodes match this filter yet.",
+    "暂时没有符合该条件的下一期活动。"
+  ]
 }
