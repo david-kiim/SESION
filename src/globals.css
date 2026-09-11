@@ -49,6 +49,7 @@ body{background:#080b0d;color:var(--foreground)}.app{background:var(--background
 /* Location discovery: map and selected media stay in one mobile sheet. */
 .map-screen[data-slot]{max-width:480px!important;width:100%;max-height:96dvh;padding:28px 20px calc(24px + env(safe-area-inset-bottom));gap:8px}.map-screen [data-slot=dialog-title]{font-size:27px}.spot-explorer{min-width:0}.map-regions{display:flex;gap:8px;margin:16px 0}.map-regions button{border:1px solid var(--border);background:#293135;color:#c9d2d4;padding:8px 18px;border-radius:24px;font-size:14px}.map-regions button[aria-pressed=true]{background:var(--primary);border-color:var(--primary);color:#172100}.map-viewport{height:260px;border:1px solid #475557;background:#182124;border-radius:22px;overflow:hidden;position:relative}.map-viewport .leaflet-host{width:100%;height:100%}
 .leaflet-container{background:#182124;font-family:inherit}
+.leaflet-tile-pane{filter:invert(1) hue-rotate(180deg) brightness(.94) contrast(.88) saturate(.8)}
 .leaflet-control-zoom{border:0!important;box-shadow:0 4px 14px #0006!important}
 .leaflet-control-zoom a{background:#232c30!important;color:#e8ffc3!important;border-color:#3c484b!important}
 .leaflet-control-zoom a:hover{background:#2b3821!important;color:var(--primary)!important}

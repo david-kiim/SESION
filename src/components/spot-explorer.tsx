@@ -27,9 +27,12 @@ export function SpotExplorer({language,onDemo,initialSpot='coex'}:{language:Lang
  useEffect(()=>{
   if(!mapHost.current||mapRef.current)return;
   const map=L.map(mapHost.current,{zoomControl:false,scrollWheelZoom:false,attributionControl:true}).setView([spot.lat,spot.lng],15);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{
-   attribution:'&copy; OpenStreetMap &copy; CARTO',
-   subdomains:'abcd',maxZoom:20
+  // Standard OpenStreetMap tiles (no key/account needed), inverted to a dark look via CSS
+  // (see .leaflet-tile-pane filter in globals.css) so it matches the app's dark theme
+  // without depending on a paid/keyed dark-tile provider.
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
+   attribution:'&copy; OpenStreetMap contributors',
+   subdomains:'abc',maxZoom:19
   }).addTo(map);
   L.control.zoom({position:'topright'}).addTo(map);
   spots.forEach(s=>{
