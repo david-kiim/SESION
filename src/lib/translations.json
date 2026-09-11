@@ -1646,5 +1646,13 @@
   "이 조건에 맞는 다음 에피소드가 아직 없어요.": [
     "No upcoming episodes match this filter yet.",
     "暂时没有符合该条件的下一期活动。"
+  ],
+  "시계": [
+    "Watches",
+    "手表"
+  ],
+  "보관함": [
+    "My Rewards",
+    "我的奖励"
   ]
 }
