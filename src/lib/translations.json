@@ -1231,5 +1231,10 @@
   "응모 내역이 없습니다.": ["No entry found.", "没有报名记录。"],
   "지금은 진행할 수 없는 상태예요. 보관함에서 최신 상태를 확인해주세요.": ["This can't proceed right now. Check the latest status in My rewards.", "目前无法继续，请在“我的奖励”中查看最新状态。"],
   "가입 체험 후 당첨을 확인할 수 있어요.": ["Sign up to confirm your win.", "完成注册体验后即可确认中奖。"],
-  "수령인·연락처·우편번호·주소를 모두 입력해주세요.": ["Please fill in recipient, contact number, postal code, and address.", "请填写收件人、联系方式、邮政编码和地址。"]
+  "수령인·연락처·우편번호·주소를 모두 입력해주세요.": ["Please fill in recipient, contact number, postal code, and address.", "请填写收件人、联系方式、邮政编码和地址。"],
+  "로그인": ["Log in", "登录"],
+  "이메일 하나로 로그인해요. 계정이 없으면 자동으로 만들어드려요.": ["Log in with just your email. If you don't have an account yet, we'll create one automatically.", "只需一个邮箱即可登录。如果还没有账号，我们会自动为您创建。"],
+  "로그인하고 이 리워드 받기": ["Log in to claim this reward", "登录并领取此奖励"],
+  "로그인하고 받기": ["Log in & claim", "登录并领取"],
+  "로그인하고 당첨 확인하기": ["Log in to confirm your win", "登录并确认中奖"]
 }
