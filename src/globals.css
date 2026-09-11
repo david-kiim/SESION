@@ -78,3 +78,6 @@ body{background:#080b0d;color:var(--foreground)}.app{background:var(--background
 .field-group{display:grid;gap:12px;margin-top:4px}
 .field-input{width:100%;padding:12px;border:1px solid #49565b;border-radius:10px;font-size:16px;background:#293135;color:#f4f6f2}
 .field-input:focus-visible{outline:3px solid #7c9c2d;outline-offset:2px}
+/* Fix: iOS Safari ignores border-radius when computing box-shadow on an <svg> element (a known WebKit quirk), so the glow behind the scan icon rendered as a square there even though it looked like a circle on desktop. Move the circular shape/shadow onto the real <button> element, which every browser handles the same way. */
+.main-nav [data-slot=tabs-trigger]:nth-child(2){width:80px;height:80px;min-width:80px;min-height:80px;display:flex;align-items:center;justify-content:center;background:var(--primary);border-radius:50%;box-shadow:0 0 0 7px var(--background),0 7px 28px #c3ff3d26;animation:scan-beacon-glow 2.8s ease-in-out infinite}
+.main-nav [data-slot=tabs-trigger]:nth-child(2)>svg{background:none!important;box-shadow:none!important;border-radius:0!important;width:38px!important;height:38px!important;padding:0!important;color:#172100!important;animation:none!important}
