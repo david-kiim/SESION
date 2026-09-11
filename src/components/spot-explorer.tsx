@@ -56,7 +56,7 @@ export function SpotExplorer({language,onDemo,initialSpot='coex'}:{language:Lang
  return localize(<section className="spot-explorer">
   <div className="map-regions" aria-label="지역 선택">{['전체','강남','광화문'].map(r=><button key={r} aria-pressed={region===r} onClick={()=>{setRegion(r);const first=spots.find(s=>r==='전체'||s.area===r);if(first)choose(first.id)}}>{r}</button>)}</div>
   <div className="map-viewport"><div ref={mapHost} className="leaflet-host"/></div>
-  <div className="map-caption"><span><MapPin size={13}/>매체 위치 기준</span><span>© OpenStreetMap · CARTO</span></div>
+  <div className="map-caption"><span><MapPin size={13}/>매체 위치 기준</span><span>© OpenStreetMap contributors</span></div>
   <div className="map-spots" aria-label="전광판 선택">{spots.filter(s=>region==='전체'||s.area===region).map(s=><button key={s.id} aria-pressed={selected===s.id} onClick={()=>choose(s.id)}><span>{s.number}</span><span>{s.name}</span><MapPin size={16}/></button>)}</div>
   <article className="map-spot-detail" aria-live="polite">
    <div className="map-card-top"><span>{spot.area}</span><span>샘플 · 이벤트 미정</span></div>
