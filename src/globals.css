@@ -69,7 +69,7 @@ body{background:#080b0d;color:var(--foreground)}.app{background:var(--background
 .reward-grid{display:flex;gap:14px;margin-top:22px;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:none;padding:4px 2px 4px}
 .reward-grid::-webkit-scrollbar{display:none}
 @keyframes card-in{from{opacity:0;transform:translateY(26px) scale(.965)}to{opacity:1;transform:none}}
-.reward-card{flex:0 0 calc(100% - 38px);scroll-snap-align:start;text-align:left;background:#1b2022;border:1px solid #3b4346;border-radius:24px;overflow:hidden;padding:0;position:relative;animation:card-in .65s cubic-bezier(.16,.84,.44,1) both;box-shadow:inset 0 1px 0 #ffffff1f,inset 0 -1px 0 #00000055,0 18px 36px -14px #000a;transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease,filter .15s ease}
+.reward-card{flex:0 0 calc(100% - 38px);scroll-snap-align:start;text-align:left;background-color:#1b2022;background-image:radial-gradient(1.6px 1.6px at 10% 20%,#ffe29a,transparent 60%),radial-gradient(1.2px 1.2px at 28% 58%,#fff0c4,transparent 60%),radial-gradient(1.9px 1.9px at 46% 15%,#ffd061,transparent 60%),radial-gradient(1.3px 1.3px at 62% 72%,#ffe6a8,transparent 60%),radial-gradient(1.5px 1.5px at 78% 34%,#ffd875,transparent 60%),radial-gradient(1.1px 1.1px at 88% 82%,#fff2cc,transparent 60%),radial-gradient(1.7px 1.7px at 18% 88%,#ffce66,transparent 60%),radial-gradient(1.2px 1.2px at 36% 42%,#ffe9b8,transparent 60%),radial-gradient(1.4px 1.4px at 54% 92%,#ffd98a,transparent 60%),radial-gradient(1px 1px at 70% 8%,#fff3d2,transparent 60%),radial-gradient(1.6px 1.6px at 92% 55%,#ffdb8f,transparent 60%),radial-gradient(1.3px 1.3px at 4% 46%,#ffe3a0,transparent 60%);border:1px solid #3b4346;border-radius:24px;overflow:hidden;padding:0;position:relative;animation:card-in .65s cubic-bezier(.16,.84,.44,1) both;box-shadow:inset 0 1px 0 #ffffff1f,inset 0 -1px 0 #00000055,0 18px 36px -14px #000a;transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease,filter .15s ease}
 .reward-grid .reward-card:nth-child(1){animation-delay:0s}
 .reward-grid .reward-card:nth-child(2){animation-delay:.08s}
 .reward-grid .reward-card:nth-child(3){animation-delay:.16s}
@@ -77,7 +77,6 @@ body{background:#080b0d;color:var(--foreground)}.app{background:var(--background
 .reward-grid .reward-card:nth-child(n+5){animation-delay:.3s}
 @media(prefers-reduced-motion:reduce){.reward-card{animation:none;opacity:1;transform:none}}
 .reward-card:hover{border-color:#5a6569;box-shadow:inset 0 1px 0 #ffffff2a,inset 0 -1px 0 #00000055,0 20px 40px -12px #000c}
-.reward-card:active{transform:scale(.98);filter:brightness(1.06)}
 .reward-dots{display:flex;justify-content:center;gap:7px;margin-top:14px}
 .reward-dot{width:6px;height:6px;padding:0;border-radius:50%;background:#3c464a;border:none;transition:background .2s ease,transform .2s ease,width .2s ease}
 .reward-dot.is-active{background:var(--primary);width:18px;border-radius:4px}
@@ -88,9 +87,10 @@ body{background:#080b0d;color:var(--foreground)}.app{background:var(--background
 .ra-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0}
 .ra-photo .ra-shade{position:absolute;inset:0;z-index:0;background:linear-gradient(180deg,transparent 38%,#08110fd9)}
 .ra-photo .ra-mark{color:#fff;opacity:.22}
-.ra-watch{background:#1c2624;color:#cfe4d8}
-.ra-bag{background:#22160e;color:#e8c9a6}
-.ra-crypto{background:#241b08;color:#f0a850}
+.ra-watch,.ra-bag,.ra-crypto{background-image:radial-gradient(1.6px 1.6px at 10% 20%,#ffe29a,transparent 60%),radial-gradient(1.2px 1.2px at 28% 58%,#fff0c4,transparent 60%),radial-gradient(1.9px 1.9px at 46% 15%,#ffd061,transparent 60%),radial-gradient(1.3px 1.3px at 62% 72%,#ffe6a8,transparent 60%),radial-gradient(1.5px 1.5px at 78% 34%,#ffd875,transparent 60%),radial-gradient(1.1px 1.1px at 88% 82%,#fff2cc,transparent 60%),radial-gradient(1.7px 1.7px at 18% 88%,#ffce66,transparent 60%),radial-gradient(1.2px 1.2px at 36% 42%,#ffe9b8,transparent 60%),radial-gradient(1.4px 1.4px at 54% 92%,#ffd98a,transparent 60%),radial-gradient(1px 1px at 70% 8%,#fff3d2,transparent 60%),radial-gradient(1.6px 1.6px at 92% 55%,#ffdb8f,transparent 60%),radial-gradient(1.3px 1.3px at 4% 46%,#ffe3a0,transparent 60%)}
+.ra-watch{background-color:#1c2624;color:#cfe4d8}
+.ra-bag{background-color:#22160e;color:#e8c9a6}
+.ra-crypto{background-color:#241b08;color:#f0a850}
 .reward-art.ra-detail{height:196px;border-radius:20px}
 .rc-body{padding:18px 20px 4px}
 .rc-top{display:flex;justify-content:space-between;align-items:center;font-size:11px;letter-spacing:.4px;margin-bottom:9px}
