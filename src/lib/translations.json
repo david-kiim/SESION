@@ -1654,5 +1654,57 @@
   "보관함": [
     "My Rewards",
     "我的奖励"
+  ],
+  "클레임 가능": [
+    "Ready to claim",
+    "待领取"
+  ],
+  "클레임 완료": [
+    "Claimed",
+    "已领取"
+  ],
+  "정식 서비스에서는 고가 리워드 특성상 휴대폰 본인확인(PASS 등)이 추가로 필요할 수 있어요. 또한 일정 금액 이상의 경품은 관련 세법에 따라 제세공과금(원천징수)이 발생할 수 있고, 수령 시 실 수령액에서 해당 금액이 제외될 수 있어요. 정확한 절차와 세율은 당첨자 개별 안내로 다시 확정해서 알려드려요.": [
+    "In the real service, high-value rewards may require additional phone verification (such as PASS). Prizes above a certain value may also be subject to withholding tax under relevant tax law, and that amount may be deducted from what you actually receive. We'll confirm the exact process and rate with each winner individually.",
+    "由于部分奖品价值较高，正式服务中可能需要额外进行手机身份验证（如PASS认证）。达到一定金额的奖品也可能根据相关税法产生代扣代缴税款（预扣税），实际到手金额可能会扣除该部分费用。具体流程和税率将单独通知中奖者确认。"
+  ],
+  "우편번호·주소 찾기": [
+    "Find zip code & address",
+    "查找邮编和地址"
+  ],
+  "입력하신 정보가 정확하지 않아 발생하는 배송 지연·오배송·수령 불가 등의 문제는 신청자 본인 책임이에요. 제출 전에 수령인·연락처·주소를 다시 한번 확인해주세요.": [
+    "You are responsible for any delivery delay, misdelivery, or failed delivery caused by inaccurate information. Please double-check the recipient, phone number, and address before submitting.",
+    "如因信息填写有误导致配送延迟、错误配送或无法收货，责任由申请人自行承担。提交前请再次确认收件人、联系方式和地址。"
+  ],
+  "도로명주소 + 상세주소(동/호수 등)": [
+    "Road-name address + unit details (building/apt no., etc.)",
+    "道路名地址 + 详细地址（栋/户号等）"
+  ],
+  "도로명주소로 검색해요": [
+    "Search by road-name address",
+    "按道路名地址搜索"
+  ],
+  "주소 검색 기능은 아직 준비 중이에요. 우편번호·주소는 직접 입력해주세요.": [
+    "Address search isn't ready yet. Please enter your zip code and address manually.",
+    "地址搜索功能尚在准备中，请直接输入邮编和地址。"
+  ],
+  "도로명 또는 지번 주소 입력 (예: 테헤란로 152)": [
+    "Enter a road-name or lot address (e.g. Teheran-ro 152)",
+    "输入道路名或地号地址（例：Teheran-ro 152）"
+  ],
+  "검색": [
+    "Search",
+    "搜索"
+  ],
+  "검색 결과가 없어요. 다른 키워드로 다시 검색해보세요.": [
+    "No results found. Try a different keyword.",
+    "未找到搜索结果，请尝试其他关键词。"
+  ],
+  "주소 검색에 실패했어요. 잠시 후 다시 시도하거나 직접 입력해주세요.": [
+    "Address search failed. Please try again later or enter it manually.",
+    "地址搜索失败，请稍后重试或直接输入。"
+  ],
+  "직접 입력할게요": [
+    "I'll enter it myself",
+    "我自己输入"
   ]
 }
