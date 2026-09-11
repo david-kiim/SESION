@@ -8,3 +8,7 @@
 .admin-draw-list{display:grid;gap:16px;margin-top:20px}
 .admin-draw-entries{margin-top:14px;max-height:220px;overflow:auto;display:grid;gap:6px}
 .admin-draw-entries p{font-size:13px;color:#c9d6d3;border-bottom:1px solid #33403f;padding:6px 0}
+.admin-winner-row{border-bottom:1px solid #33403f;padding:10px 0;display:grid;gap:4px}
+.admin-winner-row>p:first-child{font-size:13px;color:#e2ece8;border:0;padding:0}
+.admin-winner-address{font-size:12px;color:#9eb2b7;border:0;padding:0}
+.admin-winner-row>button{width:fit-content;margin-top:4px}

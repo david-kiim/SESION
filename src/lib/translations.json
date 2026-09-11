@@ -1236,5 +1236,12 @@
   "이메일 하나로 로그인해요. 계정이 없으면 자동으로 만들어드려요.": ["Log in with just your email. If you don't have an account yet, we'll create one automatically.", "只需一个邮箱即可登录。如果还没有账号，我们会自动为您创建。"],
   "로그인하고 이 리워드 받기": ["Log in to claim this reward", "登录并领取此奖励"],
   "로그인하고 받기": ["Log in & claim", "登录并领取"],
-  "로그인하고 당첨 확인하기": ["Log in to confirm your win", "登录并确认中奖"]
+  "로그인하고 당첨 확인하기": ["Log in to confirm your win", "登录并确认中奖"],
+  "당첨자 확인 절차입니다": ["Winner verification step", "中奖者确认流程"],
+  "본인 확인을 완료했어요": ["I've completed the identity check", "已完成身份确认"],
+  "당첨자에게만 요청하는 최소 정보입니다": ["The minimum information requested only from winners", "仅向中奖者索取的最少信息"],
+  "입력하신 정보는 배송 목적으로만 사용되며, 이 캠페인의 배송 처리가 끝나면 삭제를 요청할 수 있어요.": ["What you enter is used only for shipping, and you can request deletion once this campaign's shipping is complete.", "您输入的信息仅用于配送目的，此活动的配送处理完成后可申请删除。"],
+  "배송 정보가 접수됐어요. 발송이 완료되면 이 화면 상태가 자동으로 업데이트돼요.": ["Your shipping details have been received. This screen updates automatically once it ships.", "已收到您的收货信息。发货完成后此页面状态会自动更新。"],
+  "배송 상태 새로고침": ["Refresh shipping status", "刷新配送状态"],
+  "응모·추첨은 실제로 반영되며, 위 미리보기 버튼만 데모입니다.": ["Entries and the draw are real — only the preview buttons above are a demo.", "报名和抽奖均为真实数据，仅上方的预览按钮为演示。"]
 }
